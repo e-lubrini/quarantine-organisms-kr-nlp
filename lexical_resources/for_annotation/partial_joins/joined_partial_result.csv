@@ -1,0 +1,1335 @@
+,EPPO_CODE,synonym,ds_language,NCBI_TAXID,preferred_name,EFSA_PHT
+0,LIBEAF,greening of citrus,en,,'Candidatus Liberibacter africanus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+1,LIBEAS,greening of citrus,en,,'Candidatus Liberibacter asiaticus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+2,LIBEAF,greening des agrumes,fr,,'Candidatus Liberibacter africanus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+3,LIBEAS,greening des agrumes,fr,,'Candidatus Liberibacter asiaticus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+4,LIBEAF,virescence des agrumes,fr,,'Candidatus Liberibacter africanus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+5,LIBEAF,enverdecimiento de los cítricos,es,,'Candidatus Liberibacter africanus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+6,LIBEAS,enverdecimiento de los cítricos,es,,'Candidatus Liberibacter asiaticus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+7,LIBEAM,Brazilian citrus greening,en,,'Candidatus Liberibacter americanus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+8,LIBEAS,blotchy mottle disease of citrus,en,,'Candidatus Liberibacter asiaticus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+9,LIBEAS,decline of citrus,en,,'Candidatus Liberibacter asiaticus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+10,LIBEAS,huanglongbing,en,,'Candidatus Liberibacter asiaticus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+11,LIBEAS,leaf mottling of citrus,en,,'Candidatus Liberibacter asiaticus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+12,LIBEAS,likubin,en,,'Candidatus Liberibacter asiaticus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+13,LIBEAS,vein phloem degeneration of citrus deactivated,en,,'Candidatus Liberibacter asiaticus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+14,LIBEAS,yellow branch of citrus,en,,'Candidatus Liberibacter asiaticus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+15,LIBEAS,yellow shoot disease,en,,'Candidatus Liberibacter asiaticus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+16,LIBEAS,yellow shoot of citrus,en,,'Candidatus Liberibacter asiaticus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+17,LIBEAS,黃龍病,zh,,'Candidatus Liberibacter asiaticus',LiberibacterAfricanusAsiaticusAmericanus-PHT
+18,CORBFL,bacterial tan spot of bean,en,,Curtobacterium flaccumfaciens pv. flaccumfaciens,CurtobacteriumFlaccumfaciensPvFlaccumfaciens-PHT
+19,CORBFL,bacterial tan spot of soybean,en,,Curtobacterium flaccumfaciens pv. flaccumfaciens,CurtobacteriumFlaccumfaciensPvFlaccumfaciens-PHT
+20,CORBFL,bacterial wilt of bean,en,,Curtobacterium flaccumfaciens pv. flaccumfaciens,CurtobacteriumFlaccumfaciensPvFlaccumfaciens-PHT
+21,CORBFL,bacterial wilt of bean,en,,Curtobacterium flaccumfaciens pv. flaccumfaciens,RalstoniaSolanacearum-PHT
+22,CORBFL,bacterial wilt of common bean,en,,Curtobacterium flaccumfaciens pv. flaccumfaciens,RalstoniaSolanacearum-PHT
+23,CORBFL,bacterial wilt of dry beans,en,,Curtobacterium flaccumfaciens pv. flaccumfaciens,RalstoniaSolanacearum-PHT
+24,CORBFL,vascular wilt of bean,en,,Curtobacterium flaccumfaciens pv. flaccumfaciens,CurtobacteriumFlaccumfaciensPvFlaccumfaciens-PHT
+25,CORBFL,bactériose vasculaire du haricot,fr,,Curtobacterium flaccumfaciens pv. flaccumfaciens,CurtobacteriumFlaccumfaciensPvFlaccumfaciens-PHT
+26,CORBFL,bactériose vasculaire du haricot,fr,,Curtobacterium flaccumfaciens pv. flaccumfaciens,RalstoniaSolanacearum-PHT
+27,CORBFL,flétrissement bactérien du haricot,fr,,Curtobacterium flaccumfaciens pv. flaccumfaciens,CurtobacteriumFlaccumfaciensPvFlaccumfaciens-PHT
+28,CORBFL,flétrissement bactérien du haricot,fr,,Curtobacterium flaccumfaciens pv. flaccumfaciens,RalstoniaSolanacearum-PHT
+29,CORBFL,bacteriosis vascular de la judía,es,,Curtobacterium flaccumfaciens pv. flaccumfaciens,CurtobacteriumFlaccumfaciensPvFlaccumfaciens-PHT
+30,CORBFL,marchitez bacteriana de la judía,es,,Curtobacterium flaccumfaciens pv. flaccumfaciens,CurtobacteriumFlaccumfaciensPvFlaccumfaciens-PHT
+31,CORBFL,marchitez bacteriana de la judía,es,,Curtobacterium flaccumfaciens pv. flaccumfaciens,RalstoniaSolanacearum-PHT
+32,CORBFL,marchitez bacteriana de la soja,es,,Curtobacterium flaccumfaciens pv. flaccumfaciens,CurtobacteriumFlaccumfaciensPvFlaccumfaciens-PHT
+33,CORBFL,marchitez bacteriana de la soja,es,,Curtobacterium flaccumfaciens pv. flaccumfaciens,RalstoniaSolanacearum-PHT
+34,ERWIST,bacterial leaf blight of maize,en,,Pantoea stewartii subsp. stewartii,PantoeaStewartii-PHT
+35,ERWIST,bacterial wilt of maize,en,,Pantoea stewartii subsp. stewartii,PantoeaStewartii-PHT
+36,ERWIST,bacterial wilt of maize,en,,Pantoea stewartii subsp. stewartii,RalstoniaSolanacearum-PHT
+37,ERWIST,jackfruit bronzing,en,,Pantoea stewartii subsp. stewartii,PantoeaStewartii-PHT
+38,ERWIST,Bakterienwelke: Mais,de,,Pantoea stewartii subsp. stewartii,PantoeaStewartii-PHT
+39,ERWIST,Bakterienwelke: Mais,de,,Pantoea stewartii subsp. stewartii,RalstoniaSolanacearum-PHT
+40,ERWIST,flétrissement bactérien du maïs,fr,,Pantoea stewartii subsp. stewartii,PantoeaStewartii-PHT
+41,ERWIST,flétrissement bactérien du maïs,fr,,Pantoea stewartii subsp. stewartii,RalstoniaSolanacearum-PHT
+42,ERWIST,maladie de Stewart,fr,,Pantoea stewartii subsp. stewartii,PantoeaStewartii-PHT
+43,ERWIST,enfermedad de Stewart,es,,Pantoea stewartii subsp. stewartii,PantoeaStewartii-PHT
+44,ERWIST,marchitez bacteriana del maíz,es,,Pantoea stewartii subsp. stewartii,PantoeaStewartii-PHT
+45,ERWIST,marchitez bacteriana del maíz,es,,Pantoea stewartii subsp. stewartii,RalstoniaSolanacearum-PHT
+46,RALSPS,bacterial wilt,en,,Ralstonia pseudosolanacearum,RalstoniaSolanacearum-PHT
+47,RALSPS,doença do mal murcho,pt,,Ralstonia pseudosolanacearum,RalstoniaPseudosolanacearum-PHT
+48,RALSSC,banana blood disease,en,,Ralstonia syzygii subsp. celebesensis,RalstoniaSyzygiiSubspCelebesensis-PHT
+49,XANTOR,bacterial blight of rice,en,,Xanthomonas oryzae pv. oryzae,XanthomonasOryzae-PHT
+50,XANTOR,bacterial leaf blight of rice,en,,Xanthomonas oryzae pv. oryzae,XanthomonasOryzae-PHT
+51,XANTOR,kresek disease of rice,en,,Xanthomonas oryzae pv. oryzae,XanthomonasOryzae-PHT
+52,XANTOR,leaf blight of rice,en,,Xanthomonas oryzae pv. oryzae,XanthomonasOryzae-PHT
+53,XANTOR,bactériose des feuilles du riz,fr,,Xanthomonas oryzae pv. oryzae,XanthomonasOryzae-PHT
+54,XANTOR,enfermedad bacteriana de las hojas del arroz,es,,Xanthomonas oryzae pv. oryzae,XanthomonasOryzae-PHT
+55,XANTOR,Бактериальный ожог риса,ru,,Xanthomonas oryzae pv. oryzae,XanthomonasOryzae-PHT
+56,XANTTO,bacterial leaf streak of rice,en,,Xanthomonas oryzae pv. oryzicola,XanthomonasOryzae-PHT
+57,XANTTO,leaf streak of rice,en,,Xanthomonas oryzae pv. oryzicola,XanthomonasOryzae-PHT
+58,XANTTO,brûlure bactérienne du riz,fr,,Xanthomonas oryzae pv. oryzicola,XanthomonasOryzae-PHT
+59,XANTTO,stries bactériennes du riz,fr,,Xanthomonas oryzae pv. oryzicola,XanthomonasOryzae-PHT
+60,XANTTO,estrias bacterianas del arroz,es,,Xanthomonas oryzae pv. oryzicola,XanthomonasOryzae-PHT
+61,XANTTO,quemaduras bacterianas del arroz,es,,Xanthomonas oryzae pv. oryzicola,XanthomonasOryzae-PHT
+62,XANTTO,Бактериальная полосатость риса,ru,,Xanthomonas oryzae pv. oryzicola,XanthomonasOryzae-PHT
+63,XANTAU,cancrosis B (B strains),en,,Xanthomonas citri pv. aurantifolii,XanthomonasCitriAurantifolii-PHT
+64,XANTAU,citrus bacteriosis (D strains),en,,Xanthomonas citri pv. aurantifolii,XanthomonasCitriAurantifolii-PHT
+65,XANTAU,citrus canker,en,,Xanthomonas citri pv. aurantifolii,XanthomonasCitriAurantifolii-PHT
+66,XANTAU,citrus canker,en,,Xanthomonas citri pv. aurantifolii,XanthomonasCitriCitri-PHT
+67,XANTCI,citrus canker,en,,Xanthomonas citri pv. citri,XanthomonasCitriAurantifolii-PHT
+68,XANTCI,citrus canker,en,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+69,XANTAU,false canker (B strains),en,,Xanthomonas citri pv. aurantifolii,XanthomonasCitriAurantifolii-PHT
+70,XANTAU,Mexican lime cancrosis (C strains),en,,Xanthomonas citri pv. aurantifolii,XanthomonasCitriAurantifolii-PHT
+71,XANTAU,South American canker,en,,Xanthomonas citri pv. aurantifolii,XanthomonasCitriAurantifolii-PHT
+72,XANTAU,chancre citrique,fr,,Xanthomonas citri pv. aurantifolii,XanthomonasCitriAurantifolii-PHT
+73,XANTAU,chancre citrique,fr,,Xanthomonas citri pv. aurantifolii,XanthomonasCitriCitri-PHT
+74,XANTCI,chancre citrique,fr,,Xanthomonas citri pv. citri,XanthomonasCitriAurantifolii-PHT
+75,XANTCI,chancre citrique,fr,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+76,XANTCI,Asiatic canker,en,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+77,XANTCI,Asiatic citrus canker (A strains),en,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+78,XANTCI,bacterial canker of citrus,en,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+79,XANTCI,cancrosis A (A strains),en,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+80,XANTCI,Zitruskrebs,de,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+81,XANTCI,bactériose des agrumes,fr,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+82,XANTCI,chancre bactérien des agrumes,fr,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+83,XANTCI,chancre des agrumes,fr,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+84,XANTCI,bacteriosis del limonero,es,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+85,XANTCI,cancrosis asiática (A),es,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+86,XANTCI,cancrosis de los cítricos,es,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+87,XANTCI,cancro batterico degli agrumi,it,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+88,XANTCI,cancro-cítrico,pt,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+89,XANTCI,рак цитрусовых,ru,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+90,CRSPAN,blight of hazel,en,,Anisogramma anomala,AnisogrammaAnomala-PHT
+91,CRSPAN,eastern blight of filbert,en,,Anisogramma anomala,AnisogrammaAnomala-PHT
+92,CRSPAN,brûlure orientale du noisetier,fr,,Anisogramma anomala,AnisogrammaAnomala-PHT
+93,DIBOMO,black knot of cherry,en,,Apiosporina morbosa,ApiosporinaMorbosa-PHT
+94,DIBOMO,black knot of plum,en,,Apiosporina morbosa,ApiosporinaMorbosa-PHT
+95,DIBOMO,black knot of stone fruits,en,,Apiosporina morbosa,ApiosporinaMorbosa-PHT
+96,DIBOMO,nodule noir du cerisier,fr,,Apiosporina morbosa,ApiosporinaMorbosa-PHT
+97,DIBOMO,nodule noir du pêcher,fr,,Apiosporina morbosa,ApiosporinaMorbosa-PHT
+98,DIBOMO,nodule noir du prunier,fr,,Apiosporina morbosa,ApiosporinaMorbosa-PHT
+99,DIBOMO,nodulo negro del cerezo,es,,Apiosporina morbosa,ApiosporinaMorbosa-PHT
+100,DIBOMO,nodulo negro del ciruelo,es,,Apiosporina morbosa,ApiosporinaMorbosa-PHT
+101,DIBOMO,nodulo negro del melocotonero,es,,Apiosporina morbosa,ApiosporinaMorbosa-PHT
+102,PHYOPI,blister canker of pome fruits,en,,Botryosphaeria kuwatsukai,BotryosphaeriaKuwatsukai-PHT
+103,PHYOPI,physalospora canker of pome fruits,en,,Botryosphaeria kuwatsukai,BotryosphaeriaKuwatsukai-PHT
+104,PHYOPI,ring rot of apple,en,,Botryosphaeria kuwatsukai,BotryosphaeriaKuwatsukai-PHT
+105,PHYOPI,wart bark of apple,en,,Botryosphaeria kuwatsukai,BotryosphaeriaKuwatsukai-PHT
+106,PHYOPI,ibokawabyoo,ja,,Botryosphaeria kuwatsukai,BotryosphaeriaKuwatsukai-PHT
+107,PHYOPI,rinmonbyoo,ja,,Botryosphaeria kuwatsukai,BotryosphaeriaKuwatsukai-PHT
+108,CERAFA,oak wilt,en,,Bretziella fagacearum,CeratocystisFagacearum-PHT
+109,CERAFA,wilt of oak,en,,Bretziella fagacearum,CeratocystisFagacearum-PHT
+110,CERAFA,flétrissement américain du chêne,fr,,Bretziella fagacearum,CeratocystisFagacearum-PHT
+111,CERAFA,marchitez de la encina,es,,Bretziella fagacearum,CeratocystisFagacearum-PHT
+112,CERAFA,marchitez del roble,es,,Bretziella fagacearum,CeratocystisFagacearum-PHT
+113,CHMYAR,broom rust of spruce,en,,Chrysomyxa arctostaphyli,ChrysomyxaArctostaphyli-PHT
+114,CHMYAR,ferrugem amarela da vassoura de bruxa,pt,,Chrysomyxa arctostaphyli,ChrysomyxaArctostaphyli-PHT
+115,CHMYAR,ржавчина хвои ели,ru,,Chrysomyxa arctostaphyli,ChrysomyxaArctostaphyli-PHT
+116,ENDCPI,stem rust of pine,en,,Cronartium pini,Cronartium-PHT
+117,CRONRI,rouille du pin à cinq feuilles,fr,,Cronartium ribicola,Cronartium-PHT
+118,CRONRI,rouille du pin du Lord,fr,,Cronartium ribicola,Cronartium-PHT
+119,CRONRI,rouille du pin Weymouth,fr,,Cronartium ribicola,Cronartium-PHT
+120,CRONRI,rouille vésiculeuse du pin blanc,fr,,Cronartium ribicola,Cronartium-PHT
+121,CERAVI,sapstreak disease of maple,en,,Davidsoniella virescens,CeratocystisVirescens-PHT
+122,ELSIAU,scab of sweet orange,en,,Elsinoë australis,ElsinoeAustralis-PHT
+123,ELSIAU,anthracnose de l'oranger,fr,,Elsinoë australis,ElsinoeAustralis-PHT
+124,ELSIAU,gale des agrumes,fr,,Elsinoë australis,ElsinoeAustralis-PHT
+125,ELSIAU,antracnosis del naranjo,es,,Elsinoë australis,ElsinoeAustralis-PHT
+126,ELSIAU,roña de la naranja dulce,es,,Elsinoë australis,ElsinoeAustralis-PHT
+127,ELSIAU,sarna de la naranja dulce,es,,Elsinoë australis,ElsinoeAustralis-PHT
+128,ELSIFA,common scab of orange,en,,Elsinoë fawcettii,ElsinoeFawcettii-PHT
+129,ELSIFA,scab of citrus,en,,Elsinoë fawcettii,ElsinoeFawcettii-PHT
+130,ELSIFA,scab of mango,en,,Elsinoë fawcettii,ElsinoeFawcettii-PHT
+131,ELSIFA,scab of sour orange,en,,Elsinoë fawcettii,ElsinoeFawcettii-PHT
+132,ELSIFA,gale commune des agrumes,fr,,Elsinoë fawcettii,ElsinoeFawcettii-PHT
+133,ELSIFA,scab des agrumes,fr,,Elsinoë fawcettii,ElsinoeFawcettii-PHT
+134,ELSIFA,verrues des agrumes,fr,,Elsinoë fawcettii,ElsinoeFawcettii-PHT
+135,ELSIFA,costra común de los agrios,es,,Elsinoë fawcettii,ElsinoeFawcettii-PHT
+136,ELSIFA,roña de los agrios,es,,Elsinoë fawcettii,ElsinoeFawcettii-PHT
+137,ELSIFA,roña de los cítricos,es,,Elsinoë fawcettii,ElsinoeFawcettii-PHT
+138,ELSIFA,verrugose-dos-citros,pt,,Elsinoë fawcettii,ElsinoeFawcettii-PHT
+139,FUSAAL,fusarium wilt of date palm,en,,Fusarium oxysporum f. sp. albedinis,FusariumOxysporumAlbedinis-PHT
+140,FUSAAL,tracheomycosis of date palm,en,,Fusarium oxysporum f. sp. albedinis,FusariumOxysporumAlbedinis-PHT
+141,FUSAAL,fusariosis de la palmera de datiles,es,,Fusarium oxysporum f. sp. albedinis,FusariumOxysporumAlbedinis-PHT
+142,GUIGLA,shoot blight of larch,en,,Neofusicoccum laricinum,BotryosphaeriaLaricina-PHT
+143,GUIGLA,shoot blight of larch,en,,Neofusicoccum laricinum,SirococcusTsugae-PHT
+144,GUIGLA,Triebsterben: Lärche,de,,Neofusicoccum laricinum,BotryosphaeriaLaricina-PHT
+145,GYMNCF,rouille de l'aubépine,fr,,Gymnosporangium clavariiforme,Gymnosporangium-PHT
+146,GYMNCO,rouille de l'aubépine,fr,,Gymnosporangium confusum,Gymnosporangium-PHT
+147,GYMNCF,roya del espino albar,es,,Gymnosporangium clavariiforme,Gymnosporangium-PHT
+148,GYMNFU,rust of juniper,en,,Gymnosporangium sabinae,Gymnosporangium-PHT
+149,GYMNTR,rust of apple,en,,Gymnosporangium tremelloides,Gymnosporangium-PHT
+150,INONWE,laminated butt rot of conifers,en,,Coniferiporia weirii,PhellinusWeirii-PHT
+151,INONWE,root rot of conifers,en,,Coniferiporia weirii,PhellinusWeirii-PHT
+152,INONWE,root rot of conifers,en,,Coniferiporia weirii,PhymatotrichopsisOmnivora-PHT
+153,PHMPOM,root rot of conifers,en,,Phymatotrichopsis omnivora,PhellinusWeirii-PHT
+154,PHMPOM,root rot of conifers,en,,Phymatotrichopsis omnivora,PhymatotrichopsisOmnivora-PHT
+155,INONWE,yellow ring rot of conifers,en,,Coniferiporia weirii,PhellinusWeirii-PHT
+156,INONWE,pourridié des racines des conifères,fr,,Coniferiporia weirii,PhellinusWeirii-PHT
+157,INONWE,podredumbre de las raíces de las coníferas,es,,Coniferiporia weirii,PhellinusWeirii-PHT
+158,INONWE,"Глеофиллум заборный, заборный трутовик",ru,,Coniferiporia weirii,PhellinusWeirii-PHT
+159,MELMFA,rust of hemlock,en,,Melampsora farlowii,MelampsoraFarlowii-PHT
+160,MELMFA,rust of tsuga,en,,Melampsora farlowii,MelampsoraFarlowii-PHT
+161,MELMFA,Ржавчина тсуги,ru,,Melampsora farlowii,MelampsoraFarlowii-PHT
+162,MYCOLL,needle cast of Japanese larch,en,,Mycodiella laricis-leptolepidis,MycosphaerellaLaricis-Leptolepidis-PHT
+163,MYCOLL,Септориоз хвои японской лиственницы,ru,,Mycodiella laricis-leptolepidis,MycosphaerellaLaricis-Leptolepidis-PHT
+164,PHOMAN,black blight of potato,en,,Stagonosporopsis andigena,StagonosporopsisAndigena-PHT
+165,PHOMAN,leaf spot of potato,en,,Stagonosporopsis andigena,StagonosporopsisAndigena-PHT
+166,PHOMAN,phoma leaf spot of potato,en,,Stagonosporopsis andigena,StagonosporopsisAndigena-PHT
+167,PHOMAN,фомозная пятнистость листьев картофеля,ru,,Stagonosporopsis andigena,StagonosporopsisAndigena-PHT
+168,PHOMAN,Черный ожог,ru,,Stagonosporopsis andigena,StagonosporopsisAndigena-PHT
+169,GUIGCI,black spot of citrus,en,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+170,GUIGCI,freckle spot of citrus,en,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+171,GUIGCI,hard spot of citrus,en,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+172,GUIGCI,shot-hole of citrus,en,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+173,GUIGCI,speckled blotch of citrus,en,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+174,GUIGCI,virulent spot of citrus,en,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+175,GUIGCI,Fruchtfleckigkeit: Zitrus,de,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+176,GUIGCI,Schwarzfleckigkeit: Zitrus,de,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+177,GUIGCI,taches noires des agrumes,fr,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+178,GUIGCI,taches noires des fruits des agrumes,fr,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+179,GUIGCI,mancha negra de las frutas de cítricos,es,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+180,GUIGCI,manchas negras de los agrios,es,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+181,GUIGCI,mancha negra dos citrinos,pt,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+182,GUIGCI,pinta preta dos citros,pt,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+183,GUIGCI,Черная пятнистость цитрусовых,ru,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+184,PHYSSL,blotch of apple,en,,Phyllosticta solitaria,PhyllostictaSolitaria-PHT
+185,PHYSSL,fruit blotch of pome fruits,en,,Phyllosticta solitaria,PhyllostictaSolitaria-PHT
+186,PHYSSL,leaf spot of pome fruits,en,,Phyllosticta solitaria,PhyllostictaSolitaria-PHT
+187,PHYSSL,teig cancer of pome fruits,en,,Phyllosticta solitaria,PhyllostictaSolitaria-PHT
+188,PHYSSL,blotch du pommier,fr,,Phyllosticta solitaria,PhyllostictaSolitaria-PHT
+189,PHMPOM,cotton root rot,en,,Phymatotrichopsis omnivora,PhymatotrichopsisOmnivora-PHT
+190,PHMPOM,phymatotrichum root rot,en,,Phymatotrichopsis omnivora,PhymatotrichopsisOmnivora-PHT
+191,PHMPOM,root rot of soybean,en,,Phymatotrichopsis omnivora,PhymatotrichopsisOmnivora-PHT
+192,PHMPOM,soft rot of cotton,en,,Phymatotrichopsis omnivora,PhymatotrichopsisOmnivora-PHT
+193,PHMPOM,Texas root rot of alfalfa,en,,Phymatotrichopsis omnivora,PhymatotrichopsisOmnivora-PHT
+194,PHMPOM,Texas root rot of bean,en,,Phymatotrichopsis omnivora,PhymatotrichopsisOmnivora-PHT
+195,PHMPOM,Texas root rot of cotton,en,,Phymatotrichopsis omnivora,PhymatotrichopsisOmnivora-PHT
+196,PHMPOM,Texas root rot of grapevine,en,,Phymatotrichopsis omnivora,PhymatotrichopsisOmnivora-PHT
+197,PHMPOM,maladie du Texas du cotonnier,fr,,Phymatotrichopsis omnivora,PhymatotrichopsisOmnivora-PHT
+198,PHMPOM,rhizoctone du Texas,fr,,Phymatotrichopsis omnivora,PhymatotrichopsisOmnivora-PHT
+199,PHMPOM,pudrición texana,es,,Phymatotrichopsis omnivora,PhymatotrichopsisOmnivora-PHT
+200,PHMPOM,Техасская корневая гниль,ru,,Phymatotrichopsis omnivora,PhymatotrichopsisOmnivora-PHT
+201,PHYTRA,Фитофтороз древесных и кустарниковых культур,ru,,Phytophthora ramorum,PhytophthoraRamorum-PHT
+202,CERCAN,fruit spot of citrus,en,,Pseudocercospora angolensis,PseudocercosporaAngolensis-PHT
+203,CERCAN,leaf spot of citrus,en,,Pseudocercospora angolensis,PseudocercosporaAngolensis-PHT
+204,CERCAN,cercosporiose des agrumes,fr,,Pseudocercospora angolensis,PseudocercosporaAngolensis-PHT
+205,CERCAN,фруктовые пятна цитрусовых,ru,,Pseudocercospora angolensis,PseudocercosporaAngolensis-PHT
+206,CERSPD,brown needle blight of pine,en,,Pseudocercospora pini-densiflorae,PseudocercosporaPiniDensiflorae-PHT
+207,CERSPD,cercospora blight of pine,en,,Pseudocercospora pini-densiflorae,PseudocercosporaPiniDensiflorae-PHT
+208,CERSPD,needle blight of pine,en,,Pseudocercospora pini-densiflorae,LecanostictaAcicola-PHT
+209,CERSPD,needle blight of pine,en,,Pseudocercospora pini-densiflorae,PseudocercosporaPiniDensiflorae-PHT
+210,CERSPD,cercosporiose des aiguilles du pin,fr,,Pseudocercospora pini-densiflorae,PseudocercosporaPiniDensiflorae-PHT
+211,CERSPD,cercosporiosis de las aciculas del pino,es,,Pseudocercospora pini-densiflorae,PseudocercosporaPiniDensiflorae-PHT
+212,CERSPD,Коричневый ожог хвои сосны,ru,,Pseudocercospora pini-densiflorae,PseudocercosporaPiniDensiflorae-PHT
+213,PUCCPT,common potato rust,en,,Puccinia pittieriana,PucciniaPittieriana-PHT
+214,PUCCPT,common rust of potato,en,,Puccinia pittieriana,PucciniaPittieriana-PHT
+215,PUCCPT,rouille de la pomme de terre,fr,,Puccinia pittieriana,PucciniaPittieriana-PHT
+216,PUCCPT,roya de la papa,es,,Puccinia pittieriana,PucciniaPittieriana-PHT
+217,PUCCPT,roya de la patata,es,,Puccinia pittieriana,PucciniaPittieriana-PHT
+218,PUCCPT,бурая ржавчина картофеля,ru,,Puccinia pittieriana,PucciniaPittieriana-PHT
+219,SEPTLM,annular leaf spot of potato,en,,Septoria malagutii,SeptoriaMalagutii-PHT
+220,SEPTLM,septoria leaf spot of potato,en,,Septoria malagutii,SeptoriaMalagutii-PHT
+221,SEPTLM,septoria leaf spot of potato,en,,Septoria malagutii,SphaerulinaMusiva-PHT
+222,SEPTLM,septoriosi della patata,it,,Septoria malagutii,SeptoriaMalagutii-PHT
+223,MYCOPP,septoria canker of poplar,en,,Sphaerulina musiva,SphaerulinaMusiva-PHT
+224,MYCOPP,mancha foliar e cancro dos álamos,pt,,Sphaerulina musiva,SphaerulinaMusiva-PHT
+225,GNOMUL,black spot of elm,en,,Stegophora ulmea,StegophoraUlmea-PHT
+226,GNOMUL,leaf spot of elm,en,,Stegophora ulmea,StegophoraUlmea-PHT
+227,GNOMUL,anthracnose de l'orme,fr,,Stegophora ulmea,StegophoraUlmea-PHT
+228,GNOMUL,antracnosis del olmo,es,,Stegophora ulmea,StegophoraUlmea-PHT
+229,GNOMUL,Чёрная пятнистость листьев ильмовых,ru,,Stegophora ulmea,StegophoraUlmea-PHT
+230,THPHSO,smut of potato,en,,Thecaphora solani,ThecaphoraSolani-PHT
+231,THPHSO,thecaphora smut of potato,en,,Thecaphora solani,ThecaphoraSolani-PHT
+232,THPHSO,charbon de la pomme de terre,fr,,Thecaphora solani,ThecaphoraSolani-PHT
+233,THPHSO,carbón de la patata,es,,Thecaphora solani,ThecaphoraSolani-PHT
+234,THPHSO,gangrena de la papa,es,,Thecaphora solani,ThecaphoraSolani-PHT
+235,THPHSO,Головня картофеля,ru,,Thecaphora solani,ThecaphoraSolani-PHT
+236,NEOVIN,Indian bunt of wheat,en,,Tilletia indica,TilletiaIndica-PHT
+237,NEOVIN,Karnal bunt of wheat,en,,Tilletia indica,TilletiaIndica-PHT
+238,NEOVIN,partial bunt of wheat,en,,Tilletia indica,TilletiaIndica-PHT
+239,NEOVIN,carie de Karnal,fr,,Tilletia indica,TilletiaIndica-PHT
+240,VENTNA,scab of Japanese pear,en,,Venturia nashicola,VenturiaNashicola-PHT
+241,VENTNA,tavelure du nashi,fr,,Venturia nashicola,VenturiaNashicola-PHT
+242,VENTNA,tavelure du poirier du Japon,fr,,Venturia nashicola,VenturiaNashicola-PHT
+243,VENTNA,cribado del peral del Japón,es,,Venturia nashicola,VenturiaNashicola-PHT
+244,VENTNA,kurohoshi-byo,ja,,Venturia nashicola,VenturiaNashicola-PHT
+245,NUMOPI,pear driller,en,,Acrobasis pirivorella,NumoniaPyrivorella-PHT
+246,NUMOPI,pear fruit moth,en,,Acrobasis pirivorella,NumoniaPyrivorella-PHT
+247,NUMOPI,pear moth,en,,Acrobasis pirivorella,NumoniaPyrivorella-PHT
+248,NUMOPI,pear pyralid,en,,Acrobasis pirivorella,NumoniaPyrivorella-PHT
+249,NUMOPI,Грушевая огневка,ru,,Acrobasis pirivorella,NumoniaPyrivorella-PHT
+250,AGRLAX,bronze birch borer,en,,Agrilus anxius,AgrilusAnxiusGory-PHT
+251,AGRLAX,agrile du bouleau,fr,,Agrilus anxius,AgrilusAnxiusGory-PHT
+252,AGRLAX,perceur doré du bouleau,fr,,Agrilus anxius,AgrilusAnxiusGory-PHT
+253,AGRLAX,Бронзовая березовая златка,ru,,Agrilus anxius,AgrilusAnxiusGory-PHT
+254,AGRLPL,emerald ash borer,en,,Agrilus planipennis,AgrilusPlanipennis-PHT
+255,AGRLPL,agrile du frêne,fr,,Agrilus planipennis,AgrilusPlanipennis-PHT
+256,AGRLPL,ясеневая изумрудная златка,ru,,Agrilus planipennis,AgrilusPlanipennis-PHT
+257,AGRLPL,ясеневая изумрудная узкотелая златка,ru,,Agrilus planipennis,AgrilusPlanipennis-PHT
+258,AGRLPL,ясеневая узкотелая златка,ru,,Agrilus planipennis,AgrilusPlanipennis-PHT
+259,ALECWO,blue grey fly,en,,Aleurocanthus woglumi,AleurocanthusWoglumi-PHT
+260,ALECWO,citrus blackfly,en,,Aleurocanthus woglumi,Aleurocanthus-PHT
+261,ALECWO,citrus blackfly,en,,Aleurocanthus woglumi,AleurocanthusSpiniferus-PHT
+262,ALECWO,citrus blackfly,en,,Aleurocanthus woglumi,AleurocanthusWoglumi-PHT
+263,ALECWO,citrus spring whitefly,en,,Aleurocanthus woglumi,AleurocanthusWoglumi-PHT
+264,ALECWO,schwarze Citrusmottenschildlaus,de,,Aleurocanthus woglumi,AleurocanthusWoglumi-PHT
+265,ALECWO,aleurode noir des agrumes,fr,,Aleurocanthus woglumi,AleurocanthusWoglumi-PHT
+266,ALECWO,aleurode noir des agrumes,fr,,Aleurocanthus woglumi,BemisiaTabaci-PHT
+267,ALECWO,mosca prieta,es,,Aleurocanthus woglumi,AleurocanthusWoglumi-PHT
+268,ALECWO,mosca prieta de los cítricos,es,,Aleurocanthus woglumi,AleurocanthusWoglumi-PHT
+269,ALECWO,mosca negra de la naranja,it,,Aleurocanthus woglumi,AleurocanthusWoglumi-PHT
+270,AMAZMA,burdock leaf miner,en,,Nemorimyza maculosa,NemorimyzaMaculosa-PHT
+271,AMAZMA,chrysanthemum leaf miner,en,,Nemorimyza maculosa,NemorimyzaMaculosa-PHT
+272,AMAZMA,amerikanischer Blattminierer,de,,Nemorimyza maculosa,NemorimyzaMaculosa-PHT
+273,AMAZMA,Хризантемовый листовой минер,ru,,Nemorimyza maculosa,NemorimyzaMaculosa-PHT
+274,ANMLOR,Asiatic beetle,en,,Exomala orientalis,BlitoperthaOrientalis-PHT
+275,ANMLOR,oriental beetle,en,,Exomala orientalis,BlitoperthaOrientalis-PHT
+276,ANMLOR,spotted chafer,en,,Exomala orientalis,BlitoperthaOrientalis-PHT
+277,ANOLGL,Asian longhorn beetle,en,,Anoplophora glabripennis,AnoplophoraGlabripennis-PHT
+278,ANOLGL,Asian long-horned beetle,en,,Anoplophora glabripennis,AnoplophoraGlabripennis-PHT
+279,ANOLGL,basicosta white-spotted longicorn beetle,en,,Anoplophora glabripennis,AnoplophoraGlabripennis-PHT
+280,ANOLGL,starry sky beetle,en,,Anoplophora glabripennis,AnoplophoraGlabripennis-PHT
+281,ANOLGL,capricorne asiatique,fr,,Anoplophora glabripennis,AnoplophoraGlabripennis-PHT
+282,ANOLGL,longicorne asiatique,fr,,Anoplophora glabripennis,AnoplophoraGlabripennis-PHT
+283,ANOLGL,escarabajo asiático de antenas largas,es,,Anoplophora glabripennis,AnoplophoraGlabripennis-PHT
+284,ANOLGL,escarabajo asiático de cuernos largos,es,,Anoplophora glabripennis,AnoplophoraGlabripennis-PHT
+285,ANOLGL,tarlo asiatico del fusto,it,,Anoplophora glabripennis,AnoplophoraChinensis-PHT
+286,ANOLGL,tarlo asiatico del fusto,it,,Anoplophora glabripennis,AnoplophoraGlabripennis-PHT
+287,ANOLGL,Aziatische boktor,nl,,Anoplophora glabripennis,AnoplophoraGlabripennis-PHT
+288,ANOLGL,loofhoutboktor,nl,,Anoplophora glabripennis,AnoplophoraGlabripennis-PHT
+289,ANOLGL,азиатский усач,ru,,Anoplophora glabripennis,AnoplophoraGlabripennis-PHT
+290,ANOLGL,Азиатский усач,ru,,Anoplophora glabripennis,AnoplophoraGlabripennis-PHT
+291,ANTHBI,Japanese strawberry blossom weevil,en,,Anthonomus bisignifer,AnthonomusBisignifer-PHT
+292,ANTHBI,Japanese strawberry weevil,en,,Anthonomus bisignifer,AnthonomusBisignifer-PHT
+293,ANTHBI,itigo-hana-zomusi,ja,,Anthonomus bisignifer,AnthonomusBisignifer-PHT
+294,ANTHBI,イチゴハナゾムシ,ja,,Anthonomus bisignifer,AnthonomusBisignifer-PHT
+295,ANTHEU,pepper weevil,en,,Anthonomus eugenii,AnthonomusEugeniiCano-PHT
+296,ANTHEU,Paprikarüssler,de,,Anthonomus eugenii,AnthonomusEugeniiCano-PHT
+297,ANTHEU,Pfefferkäfer,de,,Anthonomus eugenii,AnthonomusEugeniiCano-PHT
+298,ANTHEU,barrenillo del Chile,es,,Anthonomus eugenii,AnthonomusEugeniiCano-PHT
+299,ANTHEU,picudo del Chile,es,,Anthonomus eugenii,AnthonomusEugeniiCano-PHT
+300,ANTHEU,biber goz kurdu,tr,,Anthonomus eugenii,AnthonomusEugeniiCano-PHT
+301,ANTHGR,boll weevil,en,,Anthonomus grandis grandis,AnthonomusGrandis-PHT
+302,ANTHGR,cotton boll weevil,en,,Anthonomus grandis grandis,AnthonomusGrandis-PHT
+303,ANTHGR,Mexican cotton boll weevil,en,,Anthonomus grandis grandis,AnthonomusGrandis-PHT
+304,ANTHGR,thurberia weevil,en,,Anthonomus grandis grandis,AnthonomusGrandis-PHT
+305,ANTHGR,mexikanischer Baumwollkapselkäfer,de,,Anthonomus grandis grandis,AnthonomusGrandis-PHT
+306,ANTHGR,anthonome du cotonnier,fr,,Anthonomus grandis grandis,AnthonomusGrandis-PHT
+307,ANTHGR,charançon américain de la capsule,fr,,Anthonomus grandis grandis,AnthonomusGrandis-PHT
+308,ANTHGR,charançon du cotonnier,fr,,Anthonomus grandis grandis,AnthonomusGrandis-PHT
+309,ANTHGR,grillo de la capsula del algodonero,es,,Anthonomus grandis grandis,AnthonomusGrandis-PHT
+310,ANTHGR,picudo del algodonero,es,,Anthonomus grandis grandis,AnthonomusGrandis-PHT
+311,ANTHGR,antonomo del cotone,it,,Anthonomus grandis grandis,AnthonomusGrandis-PHT
+312,ANTHGR,pamuk goz kurdu,tr,,Anthonomus grandis grandis,AnthonomusGrandis-PHT
+313,ANTHGR,susske ghusake panbeh,fa,,Anthonomus grandis grandis,AnthonomusGrandis-PHT
+314,TACYQU,apple curculio,en,,Anthonomus quadrigibbus,TachypterellusQuadrigibbus-PHT
+315,TACYQU,large apple curculio,en,,Anthonomus quadrigibbus,TachypterellusQuadrigibbus-PHT
+316,TACYQU,western curculio,en,,Anthonomus quadrigibbus,TachypterellusQuadrigibbus-PHT
+317,TACYQU,amerikanischer Apfelrüssler,de,,Anthonomus quadrigibbus,TachypterellusQuadrigibbus-PHT
+318,TACYQU,charançon de la pomme,fr,,Anthonomus quadrigibbus,TachypterellusQuadrigibbus-PHT
+319,ANTHSI,strawberry bud weevil,en,,Anthonomus signatus,AnthonomusSignatus-PHT
+320,ANTHSI,strawberry clipper,en,,Anthonomus signatus,AnthonomusSignatus-PHT
+321,ANTHSI,strawberry weevil,en,,Anthonomus signatus,AnthonomusBisignifer-PHT
+322,ANTHSI,strawberry weevil,en,,Anthonomus signatus,AnthonomusSignatus-PHT
+323,ANTHSI,anthonome de la fleur du fraisier,fr,,Anthonomus signatus,AnthonomusSignatus-PHT
+324,ANTHSI,charançon du fraisier,fr,,Anthonomus signatus,AnthonomusSignatus-PHT
+325,ANTHSI,cilek goz kurdu,tr,,Anthonomus signatus,AnthonomusSignatus-PHT
+326,ARRHMI,oak timberworm,en,,Arrhenodes minutus,ArrhenodesMinutus-PHT
+327,ARRHMI,charançon du chêne,fr,,Arrhenodes minutus,ArrhenodesMinutus-PHT
+328,ASCXEP,juniper gall midge,en,,Aschistonyx eppoi,AschistonyxEppoi-PHT
+329,ASCXEP,cécidomyie du genévrier,fr,,Aschistonyx eppoi,AschistonyxEppoi-PHT
+330,PARZCO,potato psyllid,en,,Bactericera cockerelli,BactericeraCockerelli-PHT
+331,PARZCO,tomato psyllid,en,,Bactericera cockerelli,BactericeraCockerelli-PHT
+332,PARZCO,amerikanischer Kartoffelblattsauger,de,,Bactericera cockerelli,BactericeraCockerelli-PHT
+333,PARZCO,Tomatenblattsauger,de,,Bactericera cockerelli,BactericeraCockerelli-PHT
+334,PARZCO,pulgón saltador de la papa,es,,Bactericera cockerelli,BactericeraCockerelli-PHT
+335,BEMITA,cassava whitefly,en,,Bemisia tabaci,BemisiaTabaci-PHT
+336,BEMITA,cotton whitefly,en,,Bemisia tabaci,BemisiaTabaci-PHT
+337,BEMITA,silver-leaf whitefly,en,,Bemisia tabaci,BemisiaTabaci-PHT
+338,BEMITA,sweet-potato whitefly,en,,Bemisia tabaci,BemisiaTabaci-PHT
+339,BEMITA,tobacco whitefly,en,,Bemisia tabaci,BemisiaTabaci-PHT
+340,BEMITA,Baumwollmottenschildlaus,de,,Bemisia tabaci,BemisiaTabaci-PHT
+341,BEMITA,Tabakmottenschildlaus,de,,Bemisia tabaci,BemisiaTabaci-PHT
+342,BEMITA,weiße Fliege,de,,Bemisia tabaci,BemisiaTabaci-PHT
+343,BEMITA,aleurode,fr,,Bemisia tabaci,BemisiaTabaci-PHT
+344,BEMITA,aleurode de la patate douce,fr,,Bemisia tabaci,BemisiaTabaci-PHT
+345,BEMITA,aleurode du cotonnier,fr,,Bemisia tabaci,BemisiaTabaci-PHT
+346,BEMITA,aleurode du tabac,fr,,Bemisia tabaci,BemisiaTabaci-PHT
+347,BEMITA,mosquita blanca del tabaco,es,,Bemisia tabaci,BemisiaTabaci-PHT
+348,BEMITA,aleirode delle solanacee,it,,Bemisia tabaci,BemisiaTabaci-PHT
+349,BEMITA,aleurode delle solanacee,it,,Bemisia tabaci,BemisiaTabaci-PHT
+350,BEMITA,mosca-branca-da-batata-doce,pt,,Bemisia tabaci,BemisiaTabaci-PHT
+351,BEMITA,mosca-branca-do-feijão,pt,,Bemisia tabaci,BemisiaTabaci-PHT
+352,BEMITA,beyaz sinek,tr,,Bemisia tabaci,BemisiaTabaci-PHT
+353,BEMITA,knimat ash hatabak,he,,Bemisia tabaci,BemisiaTabaci-PHT
+354,CARSSA,peach fruit borer,en,,Carposina sasakii,CarposinaNiponensis-PHT
+355,CARSSA,peach fruit borer,en,,Carposina sasakii,CarposinaSasakii-PHT
+356,CARSSA,peach fruit moth,en,,Carposina sasakii,CarposinaNiponensis-PHT
+357,CARSSA,peach fruit moth,en,,Carposina sasakii,CarposinaSasakii-PHT
+358,CARSSA,carpocapse du pêcher,fr,,Carposina sasakii,CarposinaNiponensis-PHT
+359,CARSSA,carpocapse du pêcher,fr,,Carposina sasakii,CarposinaSasakii-PHT
+360,CARSSA,momo-hime-shinkui,ja,,Carposina sasakii,CarposinaSasakii-PHT
+361,CARSSA,momo-shinkui-ga,ja,,Carposina sasakii,CarposinaSasakii-PHT
+362,CARNFU,red-headed sharpshooter,en,,Xyphon fulgidum,XyphonFulgidum-PHT
+363,DRAEMI,grass sharpshooter,en,,Draeculacephala minerva,DraeculacephalaMinerva-PHT
+364,GRCPAT,blue-green sharpshooter,en,,Graphocephala atropunctata,GraphocephalaAtropunctata-PHT
+365,HOMLTR,cicadelle pisseuse,fr,,Homalodisca vitripennis,HomalodiscaVitripennis-PHT
+366,HOMLTR,chicharrita de alas cristalinas,es,,Homalodisca vitripennis,HomalodiscaVitripennis-PHT
+367,HOMLTR,chicharrita del henequén,es,,Homalodisca vitripennis,HomalodiscaVitripennis-PHT
+368,CONHNE,plum curculio,en,,Conotrachelus nenuphar,ConotrachelusNenuphar-PHT
+369,CONHNE,plum weevil,en,,Conotrachelus nenuphar,ConotrachelusNenuphar-PHT
+370,CONHNE,nordamerikanischer Pflaumenrüssler,de,,Conotrachelus nenuphar,ConotrachelusNenuphar-PHT
+371,CONHNE,charançon américain du prunier,fr,,Conotrachelus nenuphar,ConotrachelusNenuphar-PHT
+372,CONHNE,charançon de la prune,fr,,Conotrachelus nenuphar,ConotrachelusNenuphar-PHT
+373,CONHNE,Плодовый долгоносик,ru,,Conotrachelus nenuphar,ConotrachelusNenuphar-PHT
+374,DENDSI,larch caterpillar,en,,Dendrolimus sibiricus,DendrolimuSibiricus-PHT
+375,DENDSI,Siberian conifer silk moth,en,,Dendrolimus sibiricus,DendrolimuSibiricus-PHT
+376,DENDSI,Siberian lasiocampid,en,,Dendrolimus sibiricus,DendrolimuSibiricus-PHT
+377,DENDSI,Siberian moth,en,,Dendrolimus sibiricus,DendrolimuSibiricus-PHT
+378,DENDSI,Siberian silk moth,en,,Dendrolimus sibiricus,DendrolimuSibiricus-PHT
+379,DENDSI,sibirischer Arvenspinner,de,,Dendrolimus sibiricus,DendrolimuSibiricus-PHT
+380,DIABLO,northern corn rootworm,en,,Diabrotica barberi,DiabroticaBarberi-PHT
+381,DIABLO,chrysomèle des racines du maïs,fr,,Diabrotica barberi,DiabroticaBarberi-PHT
+382,DIABLO,diabrotica de antenas cargas,es,,Diabrotica barberi,DiabroticaBarberi-PHT
+383,DIABLO,gusano de la raíz del maíz,es,,Diabrotica barberi,DiabroticaBarberi-PHT
+384,DIABLO,tortuguilla de la raíz del maíz,es,,Diabrotica barberi,DiabroticaBarberi-PHT
+385,DIABLO,Северный кукурузный жук,ru,,Diabrotica barberi,DiabroticaBarberi-PHT
+386,DIABUH,southern corn rootworm,en,,Diabrotica undecimpunctata howardi,DiabroticaUndecimpunctataHowardi-PHT
+387,DIABUH,spotted cucumber beetle,en,,Diabrotica undecimpunctata howardi,DiabroticaUndecimpunctataHowardi-PHT
+388,DIABUH,chrysomèle maculée du concombre,fr,,Diabrotica undecimpunctata howardi,DiabroticaUndecimpunctataHowardi-PHT
+389,DIABUH,diabrótica del cacahuate,es,,Diabrotica undecimpunctata howardi,DiabroticaUndecimpunctataHowardi-PHT
+390,DIABUH,doradilla del cacahuate,es,,Diabrotica undecimpunctata howardi,DiabroticaUndecimpunctataHowardi-PHT
+391,DIABUH,tartuguilla manchada,es,,Diabrotica undecimpunctata howardi,DiabroticaUndecimpunctataHowardi-PHT
+392,DIABUN,corn budworm,en,,Diabrotica undecimpunctata undecimpunctata,DiabroticaUndecimpunctataUndecimpunctata-PHT
+393,DIABUN,corn budworm,en,,Diabrotica undecimpunctata undecimpunctata,SpodopteraFrugiperda-PHT
+394,DIABUN,western spotted cucumber beetle,en,,Diabrotica undecimpunctata undecimpunctata,DiabroticaUndecimpunctataUndecimpunctata-PHT
+395,DIABUN,escarabajo tortuguilla del espárago,es,,Diabrotica undecimpunctata undecimpunctata,DiabroticaUndecimpunctataUndecimpunctata-PHT
+396,DIABUN,tortuguilla del espárago,es,,Diabrotica undecimpunctata undecimpunctata,DiabroticaUndecimpunctataUndecimpunctata-PHT
+397,DIABVZ,Mexican corn rootworm,en,,Diabrotica virgifera zeae,DiabroticaVirgiferaZeae-PHT
+398,DIAACI,Asian citrus psyllid,en,,Diaphorina citri,DiaphorinaCitriKuway-PHT
+399,DIAACI,citrus psylla,en,,Diaphorina citri,TriozaErytreae-PHT
+400,TRIZER,citrus psylla,en,,Trioza erytreae,TriozaErytreae-PHT
+401,DIAACI,citrus psyllid,en,,Diaphorina citri,TriozaErytreae-PHT
+402,TRIZER,citrus psyllid,en,,Trioza erytreae,TriozaErytreae-PHT
+403,DIAACI,südostasiatischer Citrusblattfloh,de,,Diaphorina citri,DiaphorinaCitriKuway-PHT
+404,EOTELE,Lewis spider mite,en,,Eotetranychus lewisi,EotetranychusLewisi-PHT
+405,EOTELE,araña roja del duraznero,es,,Eotetranychus lewisi,EotetranychusLewisi-PHT
+406,EOTELE,ácaro-da-poinsetia,pt,,Eotetranychus lewisi,EotetranychusLewisi-PHT
+407,EOTELE,ácaro-do-pessegueiro,pt,,Eotetranychus lewisi,EotetranychusLewisi-PHT
+408,CYDIIN,Manchurian fruit moth,en,,Grapholita inopinata,GrapholitaInopinata-PHT
+409,LASPPA,cherry fruit worm,en,,Grapholita packardi,GrapholitaPackardi-PHT
+410,LASPPA,phalène des cerises,fr,,Grapholita packardi,GrapholitaPackardi-PHT
+411,LASPPA,palomilla de las cerezas,es,,Grapholita packardi,GrapholitaPackardi-PHT
+412,LASPPR,lesser apple worm,en,,Grapholita prunivora,GrapholitaPrunivora-PHT
+413,LASPPR,plum moth,en,,Grapholita prunivora,GrapholitaPrunivora-PHT
+414,LASPPR,petite pyrale de la pomme,fr,,Grapholita prunivora,GrapholitaPrunivora-PHT
+415,HELIZE,American bollworm,en,,Helicoverpa zea,HelicoverpaZea-PHT
+416,HELIZE,American cotton bollworm,en,,Helicoverpa zea,HelicoverpaZea-PHT
+417,HELIZE,corn earworm,en,,Helicoverpa zea,HelicoverpaZea-PHT
+418,HELIZE,cotton bollworm,en,,Helicoverpa zea,HelicoverpaZea-PHT
+419,HELIZE,New World bollworm,en,,Helicoverpa zea,HelicoverpaZea-PHT
+420,HELIZE,tomato fruitworm,en,,Helicoverpa zea,HelicoverpaZea-PHT
+421,HELIZE,amerikanischer Baumwollkapselwurm,de,,Helicoverpa zea,HelicoverpaZea-PHT
+422,HELIZE,chenille des épis du maïs,fr,,Helicoverpa zea,HelicoverpaZea-PHT
+423,HELIZE,noctuelle des tomates,fr,,Helicoverpa zea,HelicoverpaZea-PHT
+424,HELIZE,ver de la capsule,fr,,Helicoverpa zea,HelicoverpaZea-PHT
+425,HELIZE,gusano bellotero del algodón,es,,Helicoverpa zea,HelicoverpaZea-PHT
+426,HELIZE,gusano de la mazorca del maíz,es,,Helicoverpa zea,HelicoverpaZea-PHT
+427,HELIZE,isoca del maíz,es,,Helicoverpa zea,HelicoverpaZea-PHT
+428,HELIZE,noctua del tomate,es,,Helicoverpa zea,HelicoverpaZea-PHT
+429,HELIZE,elotide del cotone,it,,Helicoverpa zea,HelicoverpaZea-PHT
+430,HELIZE,elotide del granturco,it,,Helicoverpa zea,HelicoverpaZea-PHT
+431,HELIZE,elotide del pomodoro,it,,Helicoverpa zea,HelicoverpaZea-PHT
+432,HELIZE,elotide del tomato,it,,Helicoverpa zea,HelicoverpaZea-PHT
+433,HELIZE,nottua del granturco,it,,Helicoverpa zea,HelicoverpaZea-PHT
+434,HELIZE,nottua gialla del granturco,it,,Helicoverpa zea,HelicoverpaZea-PHT
+435,HELIZE,lagarta-das-espigas,pt,,Helicoverpa zea,HelicoverpaZea-PHT
+436,HELIZE,Американская кукурузная совка,ru,,Helicoverpa zea,HelicoverpaZea-PHT
+437,HELIZE,amerikansk bomuldsugle,da,,Helicoverpa zea,HelicoverpaZea-PHT
+438,HELIZE,yesil kurt,tr,,Helicoverpa zea,HelicoverpaZea-PHT
+439,GNORLY,tomato pinworm,en,,Keiferia lycopersicella,KeiferiaLycopersicella-PHT
+440,GNORLY,mineuse de la tomate,fr,,Keiferia lycopersicella,KeiferiaLycopersicella-PHT
+441,GNORLY,cogollero del tomate,es,,Keiferia lycopersicella,KeiferiaLycopersicella-PHT
+442,GNORLY,enrollador de la hoja del tomate,es,,Keiferia lycopersicella,KeiferiaLycopersicella-PHT
+443,GNORLY,gusano aguja,es,,Keiferia lycopersicella,KeiferiaLycopersicella-PHT
+444,GNORLY,minador del tomate,es,,Keiferia lycopersicella,KeiferiaLycopersicella-PHT
+445,LOPLJA,Japanese long scale,en,,Lopholeucaspis japonica,LopholeucaspisJaponica-PHT
+446,LOPLJA,Japanese pear white scale,en,,Lopholeucaspis japonica,LopholeucaspisJaponica-PHT
+447,LOPLJA,kermès japonais,fr,,Lopholeucaspis japonica,LopholeucaspisJaponica-PHT
+448,LOPLJA,nasi-siro-nagakaigaramusi,ja,,Lopholeucaspis japonica,LopholeucaspisJaponica-PHT
+449,LOPLJA,ナシシロナガカイガラムシ,ja,,Lopholeucaspis japonica,LopholeucaspisJaponica-PHT
+450,LOPLJA,Японская палочковидная щитовка,ru,,Lopholeucaspis japonica,LopholeucaspisJaponica-PHT
+451,LIRISA,cabbage leaf miner,en,,Liriomyza sativae,LiriomyzaSativae-PHT
+452,LIRISA,leaf miner of vegetables,en,,Liriomyza sativae,LiriomyzaSativae-PHT
+453,LIRISA,serpentine vegetable leaf miner,en,,Liriomyza sativae,LiriomyzaSativae-PHT
+454,LIRISA,tomato leaf miner,en,,Liriomyza sativae,LiriomyzaSativae-PHT
+455,LIRISA,vegetable leaf miner,en,,Liriomyza sativae,LiriomyzaSativae-PHT
+456,LIRISA,minador de la higuerilla,es,,Liriomyza sativae,LiriomyzaSativae-PHT
+457,HYROBO,Argentine stem weevil,en,,Listronotus bonariensis,ListronotusBonariensis-PHT
+458,HYROBO,wheat stem weevil,en,,Listronotus bonariensis,ListronotusBonariensis-PHT
+459,HYROBO,charançon argentin des tiges,fr,,Listronotus bonariensis,ListronotusBonariensis-PHT
+460,MARGPR,ground pearls,en,,Margarodes prieskaensis,MargarodesPrieskaensis-PHT
+461,MARGPR,ground pearls,en,,Margarodes prieskaensis,MargarodesVitis-PHT
+462,MARGPR,ground pearls,en,,Margarodes prieskaensis,MargarodesVredendalensis-PHT
+463,MARGVI,ground pearls,en,,Margarodes vitis,MargarodesPrieskaensis-PHT
+464,MARGVI,ground pearls,en,,Margarodes vitis,MargarodesVitis-PHT
+465,MARGVI,ground pearls,en,,Margarodes vitis,MargarodesVredendalensis-PHT
+466,MARGVR,ground pearls,en,,Margarodes vredendalensis,MargarodesPrieskaensis-PHT
+467,MARGVR,ground pearls,en,,Margarodes vredendalensis,MargarodesVitis-PHT
+468,MARGVR,ground pearls,en,,Margarodes vredendalensis,MargarodesVredendalensis-PHT
+469,MARGPR,margarodes,en,,Margarodes prieskaensis,MargarodesPrieskaensis-PHT
+470,MARGPR,margarodes,en,,Margarodes prieskaensis,MargarodesVitis-PHT
+471,MARGPR,margarodes,en,,Margarodes prieskaensis,MargarodesVredendalensis-PHT
+472,MARGVI,margarodes,en,,Margarodes vitis,MargarodesPrieskaensis-PHT
+473,MARGVI,margarodes,en,,Margarodes vitis,MargarodesVitis-PHT
+474,MARGVI,margarodes,en,,Margarodes vitis,MargarodesVredendalensis-PHT
+475,MARGVR,margarodes,en,,Margarodes vredendalensis,MargarodesPrieskaensis-PHT
+476,MARGVR,margarodes,en,,Margarodes vredendalensis,MargarodesVitis-PHT
+477,MARGVR,margarodes,en,,Margarodes vredendalensis,MargarodesVredendalensis-PHT
+478,MARGPR,perles de terre,fr,,Margarodes prieskaensis,MargarodesPrieskaensis-PHT
+479,MARGPR,perles de terre,fr,,Margarodes prieskaensis,MargarodesVitis-PHT
+480,MARGPR,perles de terre,fr,,Margarodes prieskaensis,MargarodesVredendalensis-PHT
+481,MARGVI,perles de terre,fr,,Margarodes vitis,MargarodesPrieskaensis-PHT
+482,MARGVI,perles de terre,fr,,Margarodes vitis,MargarodesVitis-PHT
+483,MARGVI,perles de terre,fr,,Margarodes vitis,MargarodesVredendalensis-PHT
+484,MARGVR,perles de terre,fr,,Margarodes vredendalensis,MargarodesPrieskaensis-PHT
+485,MARGVR,perles de terre,fr,,Margarodes vredendalensis,MargarodesVitis-PHT
+486,MARGVR,perles de terre,fr,,Margarodes vredendalensis,MargarodesVredendalensis-PHT
+487,MARGVI,cochenille des vignes,fr,,Margarodes vitis,MargarodesVitis-PHT
+488,MARGVI,cochenille du Chili,fr,,Margarodes vitis,MargarodesVitis-PHT
+489,MARGVI,margarodes de la vid,es,,Margarodes vitis,MargarodesPrieskaensis-PHT
+490,MARGVI,margarodes de la vid,es,,Margarodes vitis,MargarodesVitis-PHT
+491,MARGVI,margarodes de la vid,es,,Margarodes vitis,MargarodesVredendalensis-PHT
+492,MARGVI,perla de terra,es,,Margarodes vitis,MargarodesVitis-PHT
+493,MARGVI,Южноамериканский виноградный червец,ru,,Margarodes vitis,MargarodesVitis-PHT
+494,MYNDCR,American palm cixiid,en,,Haplaxius crudus,HaplaxiusCrudus-PHT
+495,MYNDCR,pallid cane leafhopper,en,,Haplaxius crudus,HaplaxiusCrudus-PHT
+496,GRAGLE,white-fringed beetle,en,,Naupactus leucoloma,NaupactusLeucolomaBoheman-PHT
+497,GRAGLE,white-fringed weevil,en,,Naupactus leucoloma,NaupactusLeucolomaBoheman-PHT
+498,GRAGLE,gorgojo de la alfalfa,es,,Naupactus leucoloma,NaupactusLeucolomaBoheman-PHT
+499,GRAGLE,gorgulho argentino,es,,Naupactus leucoloma,NaupactusLeucolomaBoheman-PHT
+500,NEOLEL,cocona fruit borer,en,,Neoleucinodes elegantalis,NeoleucinodesElegantalis-PHT
+501,NEOLEL,eggplant moth,en,,Neoleucinodes elegantalis,NeoleucinodesElegantalis-PHT
+502,NEOLEL,small tomato borer,en,,Neoleucinodes elegantalis,NeoleucinodesElegantalis-PHT
+503,NEOLEL,tomato fruit borer,en,,Neoleucinodes elegantalis,NeoleucinodesElegantalis-PHT
+504,NEOLEL,petit foreur de la tomate,fr,,Neoleucinodes elegantalis,NeoleucinodesElegantalis-PHT
+505,NEOLEL,barrenador del tomate,es,,Neoleucinodes elegantalis,NeoleucinodesElegantalis-PHT
+506,NEOLEL,gusano del tomate de arbol,es,,Neoleucinodes elegantalis,NeoleucinodesElegantalis-PHT
+507,NEOLEL,pasador del fruto del tomate,es,,Neoleucinodes elegantalis,NeoleucinodesElegantalis-PHT
+508,NEOLEL,pasador del fruto de lulo,es,,Neoleucinodes elegantalis,NeoleucinodesElegantalis-PHT
+509,NEOLEL,perforador del fruto del tomate,es,,Neoleucinodes elegantalis,NeoleucinodesElegantalis-PHT
+510,NEOLEL,perforador del fruto de solanacaceas,es,,Neoleucinodes elegantalis,NeoleucinodesElegantalis-PHT
+511,OEMOHI,lemon tree borer,en,,Oemona hirta,OemonaHirta-PHT
+512,OLIGPD,byakushin-hadani,ja,,Oligonychus perditus,OligonychusPerditus-PHT
+513,PISOFA,Douglas-fir weevil,en,,Pissodes fasciatus,PissodesFasciatus-PHT
+514,PISONE,deodar weevil,en,,Pissodes nemorensis,PissodesNemorensis-PHT
+515,PISONE,northern pine weevil,en,,Pissodes nemorensis,PissodesNemorensis-PHT
+516,PISONI,yellow-spotted pine weevil,en,,Pissodes nitidus,PissodesNitidus-PHT
+517,PISONI,charançon brillant,fr,,Pissodes nitidus,PissodesNitidus-PHT
+518,PISONI,matu-kibosi-zomusi,ja,,Pissodes nitidus,PissodesNitidus-PHT
+519,PISOST,sitka-spruce weevil,en,,Pissodes strobi,PissodesStrobi-PHT
+520,PISOST,white-pine weevil,en,,Pissodes strobi,PissodesStrobi-PHT
+521,PISOST,Sitkafichtenrüssler,de,,Pissodes strobi,PissodesStrobi-PHT
+522,PISOST,starkrüsseliger Kiefernrüssler,de,,Pissodes strobi,PissodesStrobi-PHT
+523,PISOST,Weymouthskiefernrüsselkäfer,de,,Pissodes strobi,PissodesStrobi-PHT
+524,PISOST,charançon de l'épinette de Sitka,fr,,Pissodes strobi,PissodesStrobi-PHT
+525,PISOST,charançon du pin blanc,fr,,Pissodes strobi,PissodesStrobi-PHT
+526,PISOST,charançon du pin Weymouth,fr,,Pissodes strobi,PissodesStrobi-PHT
+527,PISOST,gorgojo del pino de Weymouth,es,,Pissodes strobi,DendroctonusFrontalis-PHT
+528,PISOST,gorgojo del pino de Weymouth,es,,Pissodes strobi,PissodesStrobi-PHT
+529,PISOST,pissode del pino Weymouth,it,,Pissodes strobi,PissodesStrobi-PHT
+530,PISOYU,Yunnan pine weevil,en,,Pissodes yunnanensis,PissodesYunnanensis-PHT
+531,POLGPR,four-eyed fir bark beetle,en,,Polygraphus proximus,PolygraphusProximus-PHT
+532,POLGPR,Sachalintannenborkenkäfer,de,,Polygraphus proximus,PolygraphusProximus-PHT
+533,POLGPR,Sachalintannenborkenkäfer,de,,Polygraphus proximus,ScolytusMorawitzi-PHT
+534,POLGPR,polygraphe du sapin de Maries,fr,,Polygraphus proximus,PolygraphusProximus-PHT
+535,POLGPR,polygraphe du sapin de Maries,fr,,Polygraphus proximus,ScolytusMorawitzi-PHT
+536,POLGPR,トドマツキクイムｊシ,ja,,Polygraphus proximus,ScolytusMorawitzi-PHT
+537,POLGPR,yссурийскоий полиграф,ru,,Polygraphus proximus,PolygraphusProximus-PHT
+538,POLGPR,yссурийскоий полиграф,ru,,Polygraphus proximus,ScolytusMorawitzi-PHT
+539,POLGPR,пихтовый полиграф,ru,,Polygraphus proximus,PolygraphusProximus-PHT
+540,POLGPR,пихтовый полиграф,ru,,Polygraphus proximus,ScolytusMorawitzi-PHT
+541,POLGPR,Уссурийский полиграф,ru,,Polygraphus proximus,PolygraphusProximus-PHT
+542,PSDPMI,oak bark beetle,en,,Pseudopityophthorus minutissimus,PseudopityophthorusMinutissimus-PHT
+543,PSDPMI,oak bark beetle,en,,Pseudopityophthorus minutissimus,PseudopityophthorusPruinosus-PHT
+544,PSDPPR,oak bark beetle,en,,Pseudopityophthorus pruinosus,PseudopityophthorusMinutissimus-PHT
+545,PSDPPR,oak bark beetle,en,,Pseudopityophthorus pruinosus,PseudopityophthorusPruinosus-PHT
+546,RHIOHI,root mealybug,en,,Ripersiella hibisci,RhizoecusHibisci-PHT
+547,RHIOHI,Гибискусовый корневой червец,ru,,Ripersiella hibisci,RhizoecusHibisci-PHT
+548,RHYCPA,palm marrow weevil,en,,Rhynchophorus palmarum,RhynchophorusPalmarum-PHT
+549,RHYCPA,palm weevil,en,,Rhynchophorus palmarum,RhynchophorusPalmarum-PHT
+550,RHYCPA,South American palm weevil,en,,Rhynchophorus palmarum,RhynchophorusPalmarum-PHT
+551,RHYCPA,neotropischer Palmenrüssler,de,,Rhynchophorus palmarum,RhynchophorusPalmarum-PHT
+552,RHYCPA,charançon du palmier,fr,,Rhynchophorus palmarum,RhynchophorusPalmarum-PHT
+553,RHYCPA,gorgojo prieto de la palma,es,,Rhynchophorus palmarum,RhynchophorusPalmarum-PHT
+554,RHYCPA,mayate prieto del cocotero,es,,Rhynchophorus palmarum,RhynchophorusPalmarum-PHT
+555,RHYCPA,picudo negro de la palma,es,,Rhynchophorus palmarum,RhynchophorusPalmarum-PHT
+556,SAPECN,Rundköpfiger Apfelbaumbohrer,de,,Saperda candida,SaperdaCandida-PHT
+557,SAPECN,saperde du pommier,fr,,Saperda candida,SaperdaCandida-PHT
+558,SAPECN,barrenador de tallos,es,,Saperda candida,SaperdaCandida-PHT
+559,SAPECN,Яблоневый круглоголовый усач-скрипун,ru,,Saperda candida,SaperdaCandida-PHT
+560,SCITAU,South African citrus thrips,en,,Scirtothrips aurantii,ScirtothripsAurantii-PHT
+561,SCITAU,Zitrusblasenfuß,de,,Scirtothrips aurantii,ScirtothripsAurantii-PHT
+562,SCITAU,thrips sud-africain des agrumes,fr,,Scirtothrips aurantii,ScirtothripsAurantii-PHT
+563,SCITCI,California citrus thrips,en,,Scirtothrips citri,ScirtothripsCitri-PHT
+564,SCITCI,citrus thrips,en,,Scirtothrips citri,ScirtothripsCitri-PHT
+565,SCITCI,Kakaothrips,de,,Scirtothrips citri,ScirtothripsCitri-PHT
+566,SCITCI,Orangenblasenfuß,de,,Scirtothrips citri,ScirtothripsCitri-PHT
+567,SCITCI,thrips californien des agrumes,fr,,Scirtothrips citri,ScirtothripsCitri-PHT
+568,SCITCI,thrips des agrumes,fr,,Scirtothrips citri,ScirtothripsCitri-PHT
+569,SCITCI,thrips du cacaoyer,fr,,Scirtothrips citri,ScirtothripsCitri-PHT
+570,SCITCI,trips del cacao,es,,Scirtothrips citri,ScirtothripsCitri-PHT
+571,SCITCI,trips de los cítricos,es,,Scirtothrips citri,ScirtothripsCitri-PHT
+572,SCITCI,tripide del cacao,it,,Scirtothrips citri,ScirtothripsCitri-PHT
+573,SCITDO,Assam thrips,en,,Scirtothrips dorsalis,ScirtothripsDorsalis-PHT
+574,SCITDO,chilli thrips,en,,Scirtothrips dorsalis,ScirtothripsDorsalis-PHT
+575,SCITDO,flower thrips,en,,Scirtothrips dorsalis,ScirtothripsDorsalis-PHT
+576,SCITDO,strawberry thrips,en,,Scirtothrips dorsalis,ScirtothripsDorsalis-PHT
+577,SCITDO,yellow tea thrips,en,,Scirtothrips dorsalis,ScirtothripsDorsalis-PHT
+578,SCITDO,nordindischer Teeblasenfuß,de,,Scirtothrips dorsalis,ScirtothripsDorsalis-PHT
+579,SCITDO,thrips jaune du théier,fr,,Scirtothrips dorsalis,ScirtothripsDorsalis-PHT
+580,SCITDO,tya-no-kiiro-azamiuma,ja,,Scirtothrips dorsalis,ScirtothripsDorsalis-PHT
+581,SCITDO,チャノキイロアザミウマ,ja,,Scirtothrips dorsalis,ScirtothripsDorsalis-PHT
+582,PRODER,semitropical armyworm,en,,Spodoptera eridania,SpodopteraEridania-PHT
+583,PRODER,southern armyworm,en,,Spodoptera eridania,SpodopteraEridania-PHT
+584,PRODER,southern armyworm,en,,Spodoptera eridania,SpodopteraFrugiperda-PHT
+585,PRODER,gusano cortador,es,,Spodoptera eridania,CopitarsiaTurbata-PHT
+586,PRODER,gusano cortador,es,,Spodoptera eridania,SpodopteraEridania-PHT
+587,PRODER,gusano negro,es,,Spodoptera eridania,SpodopteraEridania-PHT
+588,PRODER,gusano negro,es,,Spodoptera eridania,SpodopteraLitura-PHT
+589,PRODLI,gusano negro,es,,Spodoptera litura,SpodopteraEridania-PHT
+590,PRODLI,gusano negro,es,,Spodoptera litura,SpodopteraLitura-PHT
+591,PRODER,Южная совка,ru,,Spodoptera eridania,SpodopteraEridania-PHT
+592,LAPHFR,corn leaf worm,en,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+593,LAPHFR,fall armyworm,en,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+594,LAPHFR,grass worm,en,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+595,LAPHFR,southern grass worm,en,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+596,LAPHFR,Heerwurm,de,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+597,LAPHFR,cogollero del maíz,es,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+598,LAPHFR,grillo cogollero,es,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+599,LAPHFR,gusano cogollero del maíz,es,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+600,LAPHFR,isoca militar tardia,es,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+601,LAPHFR,oruga negra,es,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+602,LAPHFR,laphygma frugiperda,it,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+603,LAPHFR,curuquere-dos-capinzais,pt,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+604,LAPHFR,curuquere-dos-milharais,pt,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+605,LAPHFR,lagarta-do-cartucho-do-milho,pt,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+606,LAPHFR,lagarta-militar,pt,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+607,LAPHFR,majsfly,sv,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+608,LAPHFR,Кукурузная лиственная совка,ru,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+609,PRODLI,cluster caterpillar,en,,Spodoptera litura,SpodopteraLitura-PHT
+610,PRODLI,cotton leafworm,en,,Spodoptera litura,SpodopteraLitura-PHT
+611,PRODLI,cotton worm,en,,Spodoptera litura,SpodopteraLitura-PHT
+612,PRODLI,rice cutworm,en,,Spodoptera litura,SpodopteraLitura-PHT
+613,PRODLI,tobacco caterpillar,en,,Spodoptera litura,SpodopteraLitura-PHT
+614,PRODLI,tobacco cutworm,en,,Spodoptera litura,SpodopteraLittoralis-PHT
+615,PRODLI,tobacco cutworm,en,,Spodoptera litura,SpodopteraLitura-PHT
+616,PRODLI,tobacco leaf caterpillar,en,,Spodoptera litura,SpodopteraLitura-PHT
+617,PRODLI,asiatischer Baumwollwurm,de,,Spodoptera litura,SpodopteraLitura-PHT
+618,PRODLI,Baumwollblattraupe,de,,Spodoptera litura,SpodopteraLitura-PHT
+619,PRODLI,chenille défoliante,fr,,Spodoptera litura,SpodopteraLitura-PHT
+620,PRODLI,noctuelle rayée,fr,,Spodoptera litura,SpodopteraLitura-PHT
+621,PRODLI,ver du coton,fr,,Spodoptera litura,SpodopteraLittoralis-PHT
+622,PRODLI,ver du coton,fr,,Spodoptera litura,SpodopteraLitura-PHT
+623,PRODLI,ver du tabac,fr,,Spodoptera litura,SpodopteraLitura-PHT
+624,PRODLI,rosquilla negra,es,,Spodoptera litura,SpodopteraLittoralis-PHT
+625,PRODLI,rosquilla negra,es,,Spodoptera litura,SpodopteraLitura-PHT
+626,PRODLI,larva bruna con macchie vellutate,it,,Spodoptera litura,SpodopteraLitura-PHT
+627,PRODLI,eiernestrups,nl,,Spodoptera litura,SpodopteraLitura-PHT
+628,PRODLI,hasumon-yoto,ja,,Spodoptera litura,SpodopteraLitura-PHT
+629,PRODLI,pamuk yaprak kurdu,tr,,Spodoptera litura,SpodopteraLitura-PHT
+630,PRODLI,haprodenia,he,,Spodoptera litura,SpodopteraLitura-PHT
+631,TECASO,Central American potato tuber worm,en,,Tecia solanivora,TeciaSolanivora-PHT
+632,TECASO,Guatemalan potato moth,en,,Tecia solanivora,TeciaSolanivora-PHT
+633,TECASO,Guatemala-Kartoffelmotte,de,,Tecia solanivora,TeciaSolanivora-PHT
+634,TECASO,teigne guatémaltèque de la pomme de terre,fr,,Tecia solanivora,TeciaSolanivora-PHT
+635,TECASO,palomilla de la papa,es,,Tecia solanivora,TeciaSolanivora-PHT
+636,TECASO,polilla centroamericana,es,,Tecia solanivora,TeciaSolanivora-PHT
+637,TECASO,polilla de Guatemala,es,,Tecia solanivora,TeciaSolanivora-PHT
+638,TECASO,polilla gigante de la papa,es,,Tecia solanivora,TeciaSolanivora-PHT
+639,TECASO,polilla guatemalteca de la papa,es,,Tecia solanivora,TeciaSolanivora-PHT
+640,TECASO,aardappelmot,nl,,Tecia solanivora,TeciaSolanivora-PHT
+641,TECASO,polila-guatemalteca,pt,,Tecia solanivora,TeciaSolanivora-PHT
+642,TECASO,моль картофельная гватемальская,ru,,Tecia solanivora,TeciaSolanivora-PHT
+643,ANSTFR,South American fruit fly,en,,Anastrepha fraterculus,AnastrephaFraterculus-PHT
+644,ANSTFR,South American fruit fly,en,,Anastrepha fraterculus,Tephritidae-PHT
+645,ANSTFR,südamerikanische Fruchtfliege,de,,Anastrepha fraterculus,AnastrephaFraterculus-PHT
+646,ANSTFR,mouche des fruits sud-américaine,fr,,Anastrepha fraterculus,AnastrephaFraterculus-PHT
+647,ANSTFR,mosca de la ciruela,es,,Anastrepha fraterculus,AnastrephaFraterculus-PHT
+648,ANSTFR,mosca del fruto,es,,Anastrepha fraterculus,AnastrephaFraterculus-PHT
+649,ANSTFR,mosca sudamericana de la fruta,es,,Anastrepha fraterculus,AnastrephaFraterculus-PHT
+650,ANSTFR,mosca-das-frutas-sul-americana,pt,,Anastrepha fraterculus,Tephritidae-PHT
+651,ANSTLU,Mexican fruit fly,en,,Anastrepha ludens,AnastrephaLudens-PHT
+652,ANSTLU,Mexican fruit fly,en,,Anastrepha ludens,Tephritidae-PHT
+653,ANSTLU,mexikanische Fruchtfliege,de,,Anastrepha ludens,AnastrephaLudens-PHT
+654,ANSTLU,mouche mexicaine des fruits,fr,,Anastrepha ludens,AnastrephaLudens-PHT
+655,ANSTLU,gusano de la fruta,es,,Anastrepha ludens,AnastrephaLudens-PHT
+656,ANSTLU,gusano de la naranja,es,,Anastrepha ludens,AnastrephaLudens-PHT
+657,ANSTLU,mosca mexicana de la fruta,es,,Anastrepha ludens,AnastrephaLudens-PHT
+658,ANSTLU,anastrefa,it,,Anastrepha ludens,AnastrephaLudens-PHT
+659,ANSTLU,mosca de la fruta,it,,Anastrepha ludens,AnastrephaObliqua-PHT
+660,ANSTLU,mosca de la fruta,it,,Anastrepha ludens,AnastrephaSuspensa-PHT
+661,ANSTOB,mosca de la fruta,es,,Anastrepha obliqua,AnastrephaObliqua-PHT
+662,ANSTOB,mosca de la fruta,es,,Anastrepha obliqua,AnastrephaSuspensa-PHT
+663,ANSTSU,mosca de la fruta,es,,Anastrepha suspensa,AnastrephaObliqua-PHT
+664,ANSTSU,mosca de la fruta,es,,Anastrepha suspensa,AnastrephaSuspensa-PHT
+665,ANSTOB,Antillean fruit fly,en,,Anastrepha obliqua,AnastrephaObliqua-PHT
+666,ANSTOB,West Indian fruit fly,en,,Anastrepha obliqua,AnastrephaObliqua-PHT
+667,ANSTOB,westindische Fruchtfliege,de,,Anastrepha obliqua,AnastrephaObliqua-PHT
+668,ANSTOB,mouche antillaise des fruits,fr,,Anastrepha obliqua,AnastrephaObliqua-PHT
+669,ANSTSU,Caribbean fruit fly,en,,Anastrepha suspensa,AnastrephaSuspensa-PHT
+670,ANSTSU,greater Antillean fruit fly,en,,Anastrepha suspensa,AnastrephaSuspensa-PHT
+671,ANSTSU,mouche des fruits caribéenne,fr,,Anastrepha suspensa,AnastrephaSuspensa-PHT
+672,DACUDO,oriental fruit fly,en,,Bactrocera dorsalis,BactroceraDorsalis-PHT
+673,DACUDO,orientalische Fruchtfliege,de,,Bactrocera dorsalis,BactroceraDorsalis-PHT
+674,DACUDO,mouche des fruits asiatique,fr,,Bactrocera dorsalis,BactroceraDorsalis-PHT
+675,DACUDO,mosca oriental de la fruta,es,,Bactrocera dorsalis,BactroceraDorsalis-PHT
+676,DACUDO,mosca-oriental-das-frutas,pt,,Bactrocera dorsalis,Tephritidae-PHT
+677,DACUTR,Queensland fruit fly,en,,Bactrocera tryoni,BactroceraTryoni-PHT
+678,DACUTR,Queenslandfruchtfliege,de,,Bactrocera tryoni,BactroceraTryoni-PHT
+679,DACUTR,mouche des fruits de Queensland,fr,,Bactrocera tryoni,BactroceraTryoni-PHT
+680,DACUTS,Japanese orange fly,en,,Bactrocera tsuneonis,BactroceraTsuneonis-PHT
+681,DACUTS,Japanese orange fruit fly,en,,Bactrocera tsuneonis,BactroceraTsuneonis-PHT
+682,DACUTS,japanische Citrusfruchtfliege,de,,Bactrocera tsuneonis,BactroceraTsuneonis-PHT
+683,DACUTS,japanische Mandarinfliege,de,,Bactrocera tsuneonis,BactroceraTsuneonis-PHT
+684,DACUTS,mouche du citronnier,fr,,Bactrocera tsuneonis,BactroceraTsuneonis-PHT
+685,DACUTS,mikanbae,ja,,Bactrocera tsuneonis,BactroceraTsuneonis-PHT
+686,DACUTS,ミカンバエ,ja,,Bactrocera tsuneonis,BactroceraTsuneonis-PHT
+687,DACUZO,guava fruit fly,en,,Bactrocera zonata,AnastrephaSuspensa-PHT
+688,DACUZO,guava fruit fly,en,,Bactrocera zonata,BactroceraZonata-PHT
+689,DACUZO,peach fruit fly,en,,Bactrocera zonata,BactroceraZonata-PHT
+690,DACUCI,cucurbit fly,en,,Dacus ciliatus,DacusCiliatus-PHT
+691,DACUCI,Ethiopian fruit fly,en,,Dacus ciliatus,DacusCiliatus-PHT
+692,DACUCI,lesser melon fly,en,,Dacus ciliatus,DacusCiliatus-PHT
+693,DACUCI,lesser pumpkin fly,en,,Dacus ciliatus,DacusCiliatus-PHT
+694,DACUCI,mouche éthiopienne des cucurbitacées,fr,,Dacus ciliatus,DacusCiliatus-PHT
+695,EPOCCA,currant and gooseberry maggot,en,,Euphranta canadensis,EuphrantaCanadensis-PHT
+696,EPOCCA,currant fruit fly,en,,Euphranta canadensis,EuphrantaCanadensis-PHT
+697,EPOCCA,yellow currant fly,en,,Euphranta canadensis,EuphrantaCanadensis-PHT
+698,EPOCCA,yellow currant fruit fly,en,,Euphranta canadensis,EuphrantaCanadensis-PHT
+699,EPOCCA,amerikanische Stachelbeerfruchtfliege,de,,Euphranta canadensis,EuphrantaCanadensis-PHT
+700,EPOCCA,mouche du groseillier,fr,,Euphranta canadensis,EuphrantaCanadensis-PHT
+701,EPOCCA,ver des grappes de groseille,fr,,Euphranta canadensis,EuphrantaCanadensis-PHT
+702,CERTCY,tomato fruit fly,en,,Neoceratitis cyanescens,NeoceratitisCyanescens-PHT
+703,CERTQU,Rhodesian fruit fly,en,,Ceratitis quinaria,CeratitisQuinaria-PHT
+704,CERTQU,Zimbabwean fruit fly,en,,Ceratitis quinaria,CeratitisQuinaria-PHT
+705,CERTRO,Natal fly,en,,Ceratitis rosa,CeratitisRosa-PHT
+706,CERTRO,Natal fruit fly,en,,Ceratitis rosa,CeratitisRosa-PHT
+707,CERTRO,mouche des fruits du Natal,fr,,Ceratitis rosa,CeratitisRosa-PHT
+708,RHACJA,Japanese cherry fruit fly,en,,Euphranta japonica,EuphrantaJaponica-PHT
+709,RHACJA,mouche japonaise du cerisier,fr,,Euphranta japonica,EuphrantaJaponica-PHT
+710,RHACJA,オオトミバエ,ja,,Euphranta japonica,EuphrantaJaponica-PHT
+711,RHAGFA,black cherry fruit fly,en,,Rhagoletis fausta,RhagoletisFausta-PHT
+712,RHAGFA,dark cherry fruit fly,en,,Rhagoletis fausta,RhagoletisFausta-PHT
+713,RHAGFA,trypète noir des cerises,fr,,Rhagoletis fausta,RhagoletisFausta-PHT
+714,RHAGIN,western cherry fruit fly,en,,Rhagoletis indifferens,RhagoletisIndifferens-PHT
+715,RHAGME,blueberry maggot,en,,Rhagoletis mendax,RhagoletisMendax-PHT
+716,RHAGME,blueberry maggot,en,,Rhagoletis mendax,Tephritidae-PHT
+717,RHAGME,mouche du bleuet,fr,,Rhagoletis mendax,RhagoletisMendax-PHT
+718,RHAGME,Черничная пестрокрылка,ru,,Rhagoletis mendax,RhagoletisMendax-PHT
+719,RHAGPO,apple fruit fly,en,,Rhagoletis pomonella,RhagoletisPomonella-PHT
+720,RHAGPO,apple maggot,en,,Rhagoletis pomonella,RhagoletisPomonella-PHT
+721,RHAGPO,apple maggot,en,,Rhagoletis pomonella,Tephritidae-PHT
+722,RHAGPO,apple maggot fly,en,,Rhagoletis pomonella,RhagoletisPomonella-PHT
+723,RHAGPO,apple maggot fly,en,,Rhagoletis pomonella,Tephritidae-PHT
+724,RHAGPO,railroad worm,en,,Rhagoletis pomonella,RhagoletisPomonella-PHT
+725,RHAGPO,Apfelfliege,de,,Rhagoletis pomonella,RhagoletisPomonella-PHT
+726,RHAGPO,Apfelfruchtfliege,de,,Rhagoletis pomonella,RhagoletisPomonella-PHT
+727,RHAGPO,Apfelfruchtfliege,de,,Rhagoletis pomonella,Tephritidae-PHT
+728,RHAGPO,larve de la pomme,fr,,Rhagoletis pomonella,RhagoletisPomonella-PHT
+729,RHAGPO,mouche de la pomme,fr,,Rhagoletis pomonella,RhagoletisPomonella-PHT
+730,RHAGPO,mosca de las manzanas,es,,Rhagoletis pomonella,RhagoletisPomonella-PHT
+731,RHAGPO,mosca delle mele,it,,Rhagoletis pomonella,RhagoletisPomonella-PHT
+732,RHAGPO,äpplefluga,sv,,Rhagoletis pomonella,RhagoletisPomonella-PHT
+733,RHAGPO,æbleflue,da,,Rhagoletis pomonella,RhagoletisPomonella-PHT
+734,RHAGPO,epleflue,no,,Rhagoletis pomonella,RhagoletisPomonella-PHT
+735,RHAGRI,dark currant fly,en,,Rhagoletis ribicola,RhagoletisRibicola-PHT
+736,RHAGRI,dark currant fruit fly,en,,Rhagoletis ribicola,RhagoletisRibicola-PHT
+737,RHAGSU,walnut husk maggot,en,,Rhagoletis suavis,RhagoletisSuavis-PHT
+738,DACUCU,melon fly,en,,Zeugodacus cucurbitae,Tephritidae-PHT
+739,DACUCU,melon fly,en,,Zeugodacus cucurbitae,ZeugodacusCucurbitae-PHT
+740,DACUCU,melon fruit fly,en,,Zeugodacus cucurbitae,MyiopardalisPardalina-PHT
+741,DACUCU,melon fruit fly,en,,Zeugodacus cucurbitae,ZeugodacusCucurbitae-PHT
+742,DACUCU,tropische Melonenfliege,de,,Zeugodacus cucurbitae,ZeugodacusCucurbitae-PHT
+743,DACUCU,mouche des curcurbitacées,fr,,Zeugodacus cucurbitae,ZeugodacusCucurbitae-PHT
+744,DACUCU,mouche du concombre,fr,,Zeugodacus cucurbitae,Tephritidae-PHT
+745,DACUCU,mouche du concombre,fr,,Zeugodacus cucurbitae,ZeugodacusCucurbitae-PHT
+746,DACUCU,mouche du melon,fr,,Zeugodacus cucurbitae,Tephritidae-PHT
+747,DACUCU,mouche du melon,fr,,Zeugodacus cucurbitae,ZeugodacusCucurbitae-PHT
+748,DACUCU,mosca del melón,es,,Zeugodacus cucurbitae,ZeugodacusCucurbitae-PHT
+749,DACUCU,mosca del melone,it,,Zeugodacus cucurbitae,Tephritidae-PHT
+750,DACUCU,mosca del melone,it,,Zeugodacus cucurbitae,ZeugodacusCucurbitae-PHT
+751,ARGPLE,citrus codling moth,en,,Thaumatotibia leucotreta,ThaumatotibiaLeucotreta-PHT
+752,ARGPLE,false codling moth,en,,Thaumatotibia leucotreta,ThaumatotibiaLeucotreta-PHT
+753,ARGPLE,orange codling moth,en,,Thaumatotibia leucotreta,ThaumatotibiaLeucotreta-PHT
+754,ARGPLE,orange moth,en,,Thaumatotibia leucotreta,ThaumatotibiaLeucotreta-PHT
+755,ARGPLE,faux carpocapse,fr,,Thaumatotibia leucotreta,ThaumatotibiaLeucotreta-PHT
+756,THRIPL,oriental thrips,en,,Thrips palmi,ThripsPalmi-PHT
+757,THRIPL,palm thrips,en,,Thrips palmi,ThripsPalmi-PHT
+758,THRIPL,southern yellow thrips,en,,Thrips palmi,ThripsPalmi-PHT
+759,UNASCI,citrus snow scale,en,,Unaspis citri,UnaspisCitri-PHT
+760,UNASCI,orange chionaspis,en,,Unaspis citri,UnaspisCitri-PHT
+761,UNASCI,white louse scale,en,,Unaspis citri,UnaspisCitri-PHT
+762,UNASCI,schneeweiße Citrusschildlaus,de,,Unaspis citri,UnaspisCitri-PHT
+763,UNASCI,cochenille blanche du tronc,fr,,Unaspis citri,UnaspisCitri-PHT
+764,UNASCI,cochinilla blanca de los citrus,es,,Unaspis citri,UnaspisCitri-PHT
+765,UNASCI,escama de nieve de los cítricos,es,,Unaspis citri,UnaspisCitri-PHT
+766,UNASCI,piojo blanco de los cítricos,es,,Unaspis citri,UnaspisCitri-PHT
+767,UNASCI,piojo harinoso de los cítricos,es,,Unaspis citri,UnaspisCitri-PHT
+768,UNASCI,cochonilha-branca-da-laranjeira,pt,,Unaspis citri,DactylopiusCoccus-PHT
+769,UNASCI,cochonilha-branca-da-laranjeira,pt,,Unaspis citri,UnaspisCitri-PHT
+770,UNASCI,апельсиновая щитовка,ru,,Unaspis citri,UnaspisCitri-PHT
+771,XIPHAA,American dagger nematode,en,,Xiphinema americanum sensu stricto,XiphinemaAmericanum-PHT
+772,XIPHAA,tobacco ring nematode,en,,Xiphinema americanum sensu stricto,XiphinemaAmericanum-PHT
+773,XIPHAA,anguillule xiphinème américain,fr,,Xiphinema americanum sensu stricto,XiphinemaAmericanum-PHT
+774,XIPHAA,nematodo daga americano,es,,Xiphinema americanum sensu stricto,XiphinemaAmericanum-PHT
+775,XIPHAA,nami-ogata-hari-sentyu,ja,,Xiphinema americanum sensu stricto,XiphinemaAmericanum-PHT
+776,AREOX,dwarf mistletoe,en,,Arceuthobium oxycedri,Arceuthobium-PHT
+777,BCTV00,curly leaf of sugarbeet,en,,Beet curly top virus,BeetCurlyTopVirus-PHT
+778,BCTV00,curly top of beet,en,,Beet curly top virus,BeetCurlyTopVirus-PHT
+779,BCTV00,curly top of sugarbeet,en,,Beet curly top virus,BeetCurlyTopVirus-PHT
+780,BCTV00,green dwarf of potato,en,,Beet curly top virus,BeetCurlyTopVirus-PHT
+781,BCTV00,yellows of tomato,en,,Beet curly top virus,BeetCurlyTopVirus-PHT
+782,BCTV00,vírus do encaracolado da beterraba,pt,,Beet curly top virus,BeetCurlyTopVirus-PHT
+783,TSVBL0,vírus latente da franboeseira preta,pt,,Tobacco streak virus black raspberry latent strain,TobaccoStreakVirusBlackRaspberryLatentStrain-PHT
+784,CCCVD0,cadang cadang,en,,Coconut cadang-cadang viroid,CoconutCadangCadangViroid-PHT
+785,CCCVD0,yellow mottling of palms,en,,Coconut cadang-cadang viroid,CoconutCadangCadangViroid-PHT
+786,CSNV00,vírus da necrose do caule de crisântemo,pt,,Chrysanthemum stem necrosis virus,ChrysanthemumStemNecrosis-PHT
+787,CTV000,bud-union decline of citrus,en,,Citrus tristeza virus,CitrusTristezaVirus-PHT
+788,CTV000,die-back of lime,en,,Citrus tristeza virus,CitrusTristezaVirus-PHT
+789,CTV000,quick decline of citrus,en,,Citrus tristeza virus,CitrusTristezaVirus-PHT
+790,CTV000,seedling yellows of citrus,en,,Citrus tristeza virus,CitrusTristezaVirus-PHT
+791,CTV000,stem pitting of grapefruit,en,,Citrus tristeza virus,CitrusTristezaVirus-PHT
+792,CTV000,tristeza of citrus,en,,Citrus tristeza virus,CitrusTristezaVirus-PHT
+793,CTV000,Tristeza-Krankheit,de,,Citrus tristeza virus,CitrusTristezaVirus-PHT
+794,CTV000,tristeza des agrumes,fr,,Citrus tristeza virus,CitrusTristezaVirus-PHT
+795,CTV000,podredumbre de la raicillas de los cítricos,es,,Citrus tristeza virus,CitrusTristezaVirus-PHT
+796,CTV000,tristeza de los agrios,es,,Citrus tristeza virus,CitrusTristezaVirus-PHT
+797,CTV000,tristeza de los cítricos,es,,Citrus tristeza virus,CitrusTristezaVirus-PHT
+798,CTV000,vírus da tristeza dos citrinos,pt,,Citrus tristeza virus,CitrusTristezaVirus-PHT
+799,CILV00,citrus leprosis,en,,Citrus leprosis disease,CitrusLeprosisVirus-PHT
+800,CILVC0,citrus leprosis,en,,Citrus leprosis virus C,CitrusLeprosisVirus-PHT
+801,CILVC2,citrus leprosis,en,,Citrus leprosis virus C2,CitrusLeprosisVirus-PHT
+802,HGSV20,citrus leprosis,en,,Hibiscus green spot virus 2,CitrusLeprosisVirus-PHT
+803,CILV00,leprosis of citrus,en,,Citrus leprosis disease,CitrusLeprosisVirus-PHT
+804,CILV00,léprose des agrumes,fr,,Citrus leprosis disease,CitrusLeprosisVirus-PHT
+805,CILV00,lepra explosiva de los cítricos,es,,Citrus leprosis disease,CitrusLeprosisVirus-PHT
+806,CILV00,leprose-dos-citros,pt,,Citrus leprosis disease,CitrusLeprosisVirus-PHT
+807,PHYP56,bronze leaf wilt of coconut,en,,Coconut lethal yellowing phytoplasma,PalmLethalYellowingPhytoplasmas-PHT
+808,PHYP56,lethal yellowing of coconut,en,,Coconut lethal yellowing phytoplasma,PalmLethalYellowingPhytoplasmas-PHT
+809,PHYP56,jaunisse létale des palmiers,fr,,Coconut lethal yellowing phytoplasma,PalmLethalYellowingPhytoplasmas-PHT
+810,PHYP56,jaunissement mortel du cocotier,fr,,Coconut lethal yellowing phytoplasma,PalmLethalYellowingPhytoplasmas-PHT
+811,PHYP56,pourriture du bourgeon terminal du cocotier,fr,,Coconut lethal yellowing phytoplasma,PalmLethalYellowingPhytoplasmas-PHT
+812,PHYP56,amarillamiento letal del cocotero,es,,Coconut lethal yellowing phytoplasma,PalmLethalYellowingPhytoplasmas-PHT
+813,PHYP56,amarillo letal de las palmeras,es,,Coconut lethal yellowing phytoplasma,PalmLethalYellowingPhytoplasmas-PHT
+814,PHYP56,pudrición del cogollo,es,,Coconut lethal yellowing phytoplasma,PalmLethalYellowingPhytoplasmas-PHT
+815,PHYP56,fitoplasma do amarelecimento letal da palmeira,pt,,Coconut lethal yellowing phytoplasma,PalmLethalYellowingPhytoplasmas-PHT
+816,APLV00,vírus latente andino da batateira,pt,,Andean potato latent virus,AndeanPotatoLatentVirus-PHT
+817,APMOV0,Andean mottle of potato,en,,Andean potato mottle virus,AndeanPotatoMottleVirus-PHT
+818,APMOV0,vírus marmoreado andino da batateira,pt,,Andean potato mottle virus,AndeanPotatoMottleVirus-PHT
+819,PBRSV0,Andean calico of potato,en,,Potato black ringspot virus,PotatoBlackRingspotVirus-PHT
+820,PBRSV0,calico de la pomme de terre,fr,,Potato black ringspot virus,PotatoBlackRingspotVirus-PHT
+821,PBRSV0,vírus dos anéis negros da batateira,pt,,Potato black ringspot virus,PotatoBlackRingspotVirus-PHT
+822,PVT000,vírus T da batateira,pt,,Potato virus T,PotatoVirusT-PHT
+823,PVT000,Теповирус Т картофеля,ru,,Potato virus T,PotatoVirusT-PHT
+824,PVA000,common mosaic of potato,en,,Potato virus A,PotatoVirusA-PHT
+825,PVA000,mild mosaic of potato,en,,Potato virus A,PotatoVirusA-PHT
+826,PVA000,veinal mosaic of potato,en,,Potato virus A,PotatoVirusA-PHT
+827,PLRV00,potato leafroll virus,en,,Potato leafroll virus,PotatoLeafrollVirus-PHT
+828,PLRV00,potato phloem necrosis virus,en,,Potato leafroll virus,PotatoLeafrollVirus-PHT
+829,PLRV00,vírus do enrolamento da batateira,pt,,Potato leafroll virus,PotatoLeafrollVirus-PHT
+830,SDV000,dwarf disease of satsuma,en,,Satsuma dwarf virus,CitrusYellowMosaicVirus-PHT
+831,SDV000,dwarf disease of satsuma,en,,Satsuma dwarf virus,SatsumaDwarfVirus-PHT
+832,SDV000,vírus do mosaico dos citrinos,pt,,Satsuma dwarf virus,SatsumaDwarfVirus-PHT
+833,SDV000,toramikan,ja,,Satsuma dwarf virus,CitrusYellowMosaicVirus-PHT
+834,SDV000,toramikan,ja,,Satsuma dwarf virus,SatsumaDwarfVirus-PHT
+835,TRSV00,bud blight of soybean,en,,Tobacco ringspot virus,TobaccoRingspotVirus-PHT
+836,TRSV00,necrosis of anemone,en,,Tobacco ringspot virus,TobaccoRingspotVirus-PHT
+837,TRSV00,necrotic ring spot of blueberry,en,,Tobacco ringspot virus,TobaccoRingspotVirus-PHT
+838,TRSV00,pemberton disease of blueberry,en,,Tobacco ringspot virus,TobaccoRingspotVirus-PHT
+839,TRSV00,ring spot of soybean,en,,Tobacco ringspot virus,TobaccoRingspotVirus-PHT
+840,TRSV00,ring spot of tobacco,en,,Tobacco ringspot virus,TobaccoRingspotVirus-PHT
+841,TRSV00,virus des taches en anneaux du tabac,fr,,Tobacco ringspot virus,TobaccoRingspotVirus-PHT
+842,TRSV00,virus de la mancha anular del tabaco,es,,Tobacco ringspot virus,TobaccoRingspotVirus-PHT
+843,TRSV00,maculatura anulare del tabaco,it,,Tobacco ringspot virus,TobaccoRingspotVirus-PHT
+844,TRSV00,tabak-ringspotziekte,nl,,Tobacco ringspot virus,TobaccoRingspotVirus-PHT
+845,TRSV00,vírus dos anéis do tabaco,pt,,Tobacco ringspot virus,TobaccoRingspotVirus-PHT
+846,TRSV00,вирус кольцевой пятнистости табака,ru,,Tobacco ringspot virus,TobaccoRingspotVirus-PHT
+847,TORSV0,chlorosis mosaic of raspberry,en,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+848,TORSV0,chlorosis of pelargonium,en,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+849,TORSV0,crumbly fruit of raspberry,en,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+850,TORSV0,decline of raspberry,en,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+851,TORSV0,eola rasp leaf of cherry,en,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+852,TORSV0,ringspot of tomato,en,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+853,TORSV0,stem pitting of prunus,en,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+854,TORSV0,stub head of gladiolus,en,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+855,TORSV0,stunt of gladiolus,en,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+856,TORSV0,union necrosis of apple,en,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+857,TORSV0,yellow blotch curl of raspberry,en,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+858,TORSV0,yellow bud mosaic of peach,en,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+859,TORSV0,yellow vein of grapevine,en,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+860,TORSV0,vírus dos anéis do tomateiro,pt,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+861,TORSV0,Неповирус кольцевой пятнистости томата,ru,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+862,BLMOV0,vírus do marmoreado folear do mirtilo,pt,,Blueberry leaf mottle virus,BlueberryLeafMottleVirus-PHT
+863,CRLV00,American rasp leaf of cherry,en,,Cherry rasp leaf virus,CherryRaspLeafVirus-PHT
+864,CRLV00,rasp leaf of cherry,en,,Cherry rasp leaf virus,CherryRaspLeafVirus-PHT
+865,CRLV00,Rauhblättrigkeit der Kirsche,de,,Cherry rasp leaf virus,CherryRaspLeafVirus-PHT
+866,CRLV00,feuilles râpeuses du cerisier,fr,,Cherry rasp leaf virus,CherryRaspLeafVirus-PHT
+867,CRLV00,hoja áspera del cerezo,es,,Cherry rasp leaf virus,CherryRaspLeafVirus-PHT
+868,CRLV00,vírus da folha áspera da cerejeira,pt,,Cherry rasp leaf virus,CherryRaspLeafVirus-PHT
+869,CRLV00,Черавирус рашпилевидности листьев черешни,ru,,Cherry rasp leaf virus,CherryRaspLeafVirus-PHT
+870,PCMV00,American mosaic of peach,en,,Peach mosaic virus,PeachMosaicVirus-PHT
+871,PCMV00,blotch of peach,en,,Peach mosaic virus,PeachMosaicVirus-PHT
+872,PCMV00,calico of peach,en,,Peach mosaic virus,PeachMosaicVirus-PHT
+873,PCMV00,mosaic of peach,en,,Peach mosaic virus,PeachMosaicVirus-PHT
+874,PCMV00,mosaïque américaine du pêcher,fr,,Peach mosaic virus,PeachMosaicVirus-PHT
+875,PCMV00,vírus do mosaico do pessegueiro,pt,,Peach mosaic virus,PeachMosaicVirus-PHT
+876,PRMV00,rosette mosaic of peach,en,,Peach rosette mosaic virus,PeachRosetteMosaicVirus-PHT
+877,PRMV00,vírus da roseta do pessegueiro,pt,,Peach rosette mosaic virus,PeachRosetteMosaicVirus-PHT
+878,PRMV00,Неповирус розеточной мозаики персика,ru,,Peach rosette mosaic virus,PeachRosetteMosaicVirus-PHT
+879,APLPV0,American line pattern of plum,en,,American plum line pattern virus,AmericanPlumLinePatternVirus-PHT
+880,APLPV0,banded chlorosis of oriental flowering cherry,en,,American plum line pattern virus,AmericanPlumLinePatternVirus-PHT
+881,APLPV0,amerikanisches Pflaumenbandmosaikvirus,de,,American plum line pattern virus,AmericanPlumLinePatternVirus-PHT
+882,APLPV0,vírus dos arabescos da ameixeira americana,pt,,American plum line pattern virus,AmericanPlumLinePatternVirus-PHT
+883,RLCV00,American leaf curl of raspberry,en,,Raspberry leaf curl virus,RaspberryLeafCurlVirus-PHT
+884,RLCV00,leaf curl of raspberry,en,,Raspberry leaf curl virus,RaspberryLeafCurlVirus-PHT
+885,RLCV00,vírus do encaracolado da framboeseira,pt,,Raspberry leaf curl virus,RaspberryLeafCurlVirus-PHT
+886,SYWB00,witches' broom of strawberry,en,,Strawberry witches' broom phytoplasma,CandidatusPhytoplasmaMali-PHT
+887,CPMMV0,angular mosaic of beans,en,,Cowpea mild mottle virus,CowpeaMildMottleVirus-PHT
+888,CPMMV0,mild mottle of cowpea,en,,Cowpea mild mottle virus,CowpeaMildMottleVirus-PHT
+889,CPMMV0,pale chlorosis of tomato,en,,Cowpea mild mottle virus,CowpeaMildMottleVirus-PHT
+890,CPMMV0,vírus do marmoreado suave do feijão-frade,pt,,Cowpea mild mottle virus,CowpeaMildMottleVirus-PHT
+891,LIYV00,infectious yellows of lettuce,en,,Lettuce infectious yellows virus,LettuceInfectiousYellowsVirus-PHT
+892,LIYV00,vírus dos amrelos infeciosos da alface,pt,,Lettuce infectious yellows virus,LettuceInfectiousYellowsVirus-PHT
+893,SPMMV0,mild mottle of sweet potato,en,,Sweet potato mild mottle virus,SweetPotatoMildMottleVirus-PHT
+894,TOCHV0,chocolate spot,en,,Tomato chocolàte virus,TomatoChocolateVirus-PHT
+895,TOCHV0,mancha de chocolate,es,,Tomato chocolàte virus,TomatoChocolateVirus-PHT
+896,PHYPAF,witches' broom of lime,en,,'Candidatus Phytoplasma aurantifolia',CandidatusPhytoplasmaMali-PHT
+897,CORBSE,bacterial ring rot of potato,en,,Clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+898,CORBSE,ring rot of potato,en,,Clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+899,CORBSE,vascular wilt of potato,en,,Clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+900,CORBSE,bactériose annulaire de la pomme de terre,fr,,Clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+901,CORBSE,flétrissement bactérien de la pomme de terre,fr,,Clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+902,CORBSE,flétrissement bactérien de la pomme de terre,fr,,Clavibacter sepedonicus,RalstoniaSolanacearum-PHT
+903,CORBSE,pourriture annulaire de la pomme de terre,fr,,Clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+904,CORBSE,bacteriosis anular de la patata,es,,Clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+905,CORBSE,podredumbre anular de la papa,es,,Clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+906,CORBSE,podredumbre anular de la patata,es,,Clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+907,CORBSE,marciume anulare della patata,it,,Clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+908,CORBSE,ringrot,nl,,Clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+909,CORBSE,podridão-anelar-bacteriana-da-batata,pt,,Clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+910,CORBSE,ljus ringröta,sv,,Clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+911,CORBSE,кольцевая гниль картофеля,ru,,Clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+912,RALSSL,pourriture brune de la pomme de terre,fr,,Ralstonia solanacearum,RalstoniaSolanacearum-PHT
+913,RALSSL,Бурая гниль картофеля,ru,,Ralstonia solanacearum,RalstoniaSolanacearum-PHT
+914,XYLEFA,Anaheim disease,en,,Xylella fastidiosa,XylellaFastidiosa-PHT
+915,XYLEFA,California vine disease,en,,Xylella fastidiosa,XylellaFastidiosa-PHT
+916,XYLEFA,citrus variegated chlorosis,en,,Xylella fastidiosa,XylellaFastidiosa-PHT
+917,XYLEFA,dwarf disease of alfalfa,en,,Xylella fastidiosa,XylellaFastidiosa-PHT
+918,XYLEFA,dwarf disease of lucerne,en,,Xylella fastidiosa,XylellaFastidiosa-PHT
+919,XYLEFA,leaf scorch of almond,en,,Xylella fastidiosa,XylellaFastidiosa-PHT
+920,XYLEFA,leaf scorch of maple,en,,Xylella fastidiosa,XylellaFastidiosa-PHT
+921,XYLEFA,olive quick decline syndrome,en,,Xylella fastidiosa,XylellaFastidiosa-PHT
+922,XYLEFA,peach phony disease,en,,Xylella fastidiosa,XylellaFastidiosa-PHT
+923,XYLEFA,Pierce's disease of grapevine,en,,Xylella fastidiosa,XylellaFastidiosa-PHT
+924,XYLEFA,maladie de Pierce,fr,,Xylella fastidiosa,XylellaFastidiosa-PHT
+925,XYLEFA,enanismo de la alfalfa,es,,Xylella fastidiosa,XylellaFastidiosa-PHT
+926,XYLEFA,enfermedad de Pierce,es,,Xylella fastidiosa,XylellaFastidiosa-PHT
+927,CERAFP,canker of sycamore,en,,Ceratocystis platani,CeratocystisPlatani-PHT
+928,CERAFP,canker stain of plane,en,,Ceratocystis platani,CeratocystisPlatani-PHT
+929,CERAFP,chancre coloré du platane,fr,,Ceratocystis platani,CeratocystisFimbriata-PHT
+930,CERAFP,chancre coloré du platane,fr,,Ceratocystis platani,CeratocystisPlatani-PHT
+931,CERAFP,tache chancreuse du platane,fr,,Ceratocystis platani,CeratocystisPlatani-PHT
+932,CERAFP,chancro colorado del plátano,es,,Ceratocystis platani,CeratocystisPlatani-PHT
+933,CERAFP,cancro colorato del platano,it,,Ceratocystis platani,CeratocystisPlatani-PHT
+934,CERAFP,platanensterfte,nl,,Ceratocystis platani,CeratocystisPlatani-PHT
+935,CERAFP,cancro-do-azulamento-do-plátano,pt,,Ceratocystis platani,CeratocystisPlatani-PHT
+936,CERAFP,platanvissnesjuka,sv,,Ceratocystis platani,CeratocystisPlatani-PHT
+937,GIBBCI,pitch canker of pine,en,,Fusarium circinatum,FusariumCircinatum-PHT
+938,GIBBCI,chancre résineux du pin,fr,,Fusarium circinatum,FusariumCircinatum-PHT
+939,GEOHMO,thousand cankers disease,en,,Geosmithia morbida,GeosmithiaMorbida-PHT
+940,SYNCEN,black scab of potato,en,,Synchytrium endobioticum,SynchytriumEndobioticum-PHT
+941,SYNCEN,black wart of potato,en,,Synchytrium endobioticum,SynchytriumEndobioticum-PHT
+942,SYNCEN,wart disease of potato,en,,Synchytrium endobioticum,SynchytriumEndobioticum-PHT
+943,SYNCEN,wart of potato,en,,Synchytrium endobioticum,SynchytriumEndobioticum-PHT
+944,SYNCEN,galle verruqueuse de la pomme de terre,fr,,Synchytrium endobioticum,SynchytriumEndobioticum-PHT
+945,SYNCEN,maladie verruqueuse de la pomme de terre,fr,,Synchytrium endobioticum,SynchytriumEndobioticum-PHT
+946,SYNCEN,tumeur verruqueuse de la pomme de terre,fr,,Synchytrium endobioticum,SynchytriumEndobioticum-PHT
+947,SYNCEN,sarna negra de la papa,es,,Synchytrium endobioticum,SynchytriumEndobioticum-PHT
+948,SYNCEN,sarna verrugosa de la patata,es,,Synchytrium endobioticum,SynchytriumEndobioticum-PHT
+949,SYNCEN,Рак картофеля,ru,,Synchytrium endobioticum,SynchytriumEndobioticum-PHT
+950,ALECSN,citrus mealywing,en,,Aleurocanthus spiniferus,Aleurocanthus-PHT
+951,ALECSN,citrus mealywing,en,,Aleurocanthus spiniferus,AleurocanthusSpiniferus-PHT
+952,ALECSN,citrus spiny whitefly,en,,Aleurocanthus spiniferus,Aleurocanthus-PHT
+953,ALECSN,citrus spiny whitefly,en,,Aleurocanthus spiniferus,AleurocanthusSpiniferus-PHT
+954,ALECSN,orange spiny whitefly,en,,Aleurocanthus spiniferus,Aleurocanthus-PHT
+955,ALECSN,orange spiny whitefly,en,,Aleurocanthus spiniferus,AleurocanthusSpiniferus-PHT
+956,ALECSN,spiny blackfly,en,,Aleurocanthus spiniferus,Aleurocanthus-PHT
+957,ALECSN,spiny blackfly,en,,Aleurocanthus spiniferus,AleurocanthusSpiniferus-PHT
+958,ALECSN,aleurode épineux du citronnier,fr,,Aleurocanthus spiniferus,Aleurocanthus-PHT
+959,ALECSN,aleurode épineux du citronnier,fr,,Aleurocanthus spiniferus,AleurocanthusSpiniferus-PHT
+960,ALECSN,aleurode épineux du citronnier,fr,,Aleurocanthus spiniferus,BemisiaTabaci-PHT
+961,ALECSN,djeroek-motschildluis,nl,,Aleurocanthus spiniferus,Aleurocanthus-PHT
+962,ALECSN,djeroek-motschildluis,nl,,Aleurocanthus spiniferus,AleurocanthusSpiniferus-PHT
+963,ALECSN,mikan-toge-konazirami,ja,,Aleurocanthus spiniferus,Aleurocanthus-PHT
+964,ALECSN,mikan-toge-konazirami,ja,,Aleurocanthus spiniferus,AleurocanthusSpiniferus-PHT
+965,ANOLCN,black and white longhorn,en,,Anoplophora chinensis,AnoplophoraChinensis-PHT
+966,ANOLCN,citrus longhorn,en,,Anoplophora chinensis,AnoplophoraChinensis-PHT
+967,ANOLCN,citrus long-horned beetle,en,,Anoplophora chinensis,AnoplophoraChinensis-PHT
+968,ANOLCN,white-spotted longicorn beetle,en,,Anoplophora chinensis,AnoplophoraChinensis-PHT
+969,ANOLCN,Citrusbockkäfer,de,,Anoplophora chinensis,AnoplophoraChinensis-PHT
+970,ANOLCN,capricorne asiatique des agrumes,fr,,Anoplophora chinensis,AnoplophoraChinensis-PHT
+971,ANOLCN,capricorne asiatique des agrumes,fr,,Anoplophora chinensis,AnoplophoraGlabripennis-PHT
+972,ANOLCN,tarlo asiatico,it,,Anoplophora chinensis,AnoplophoraChinensis-PHT
+973,ANOLCN,Oost-Aziatische boktor,nl,,Anoplophora chinensis,AnoplophoraChinensis-PHT
+974,ANOLCN,besouro-asiático,pt,,Anoplophora chinensis,AnoplophoraChinensis-PHT
+975,ANOLCN,gomadara-kamikiri,ja,,Anoplophora chinensis,AnoplophoraChinensis-PHT
+976,ANOLCN,hosi-kamikiri,ja,,Anoplophora chinensis,AnoplophoraChinensis-PHT
+977,ANOLCN,ゴマダラカミキリ,ja,,Anoplophora chinensis,AnoplophoraChinensis-PHT
+978,ANOLCN,ホシカミキリ,ja,,Anoplophora chinensis,AnoplophoraChinensis-PHT
+979,ANOLCN,усач китайский,ru,,Anoplophora chinensis,AnoplophoraChinensis-PHT
+980,AROMBU,cerambicide dal collo rosso,it,,Aromia bungii,AnthonomusEugeniiCano-PHT
+981,AROMBU,cerambicide dal collo rosso,it,,Aromia bungii,AromiaBungii-PHT
+982,PITOJU,walnut twig beetle,en,,Pityophthorus juglandis,PityophthorusJuglandis-PHT
+983,POPIJA,Japanese beetle,en,,Popillia japonica,PopilliaJaponica-PHT
+984,POPIJA,Japankäfer,de,,Popillia japonica,PopilliaJaponica-PHT
+985,POPIJA,hanneton japonais,fr,,Popillia japonica,PopilliaJaponica-PHT
+986,POPIJA,scarabée japonais,fr,,Popillia japonica,PopilliaJaponica-PHT
+987,POPIJA,escarabajo japonés,es,,Popillia japonica,PopilliaJaponica-PHT
+988,POPIJA,scarabeo giapponese,it,,Popillia japonica,PopilliaJaponica-PHT
+989,POPIJA,japanbagge,sv,,Popillia japonica,PopilliaJaponica-PHT
+990,POPIJA,mame-kogane,ja,,Popillia japonica,PopilliaJaponica-PHT
+991,POPIJA,マメコガネ,ja,,Popillia japonica,PopilliaJaponica-PHT
+992,POPIJA,Японский жук,ru,,Popillia japonica,PopilliaJaponica-PHT
+993,POPIJA,japanbille,da,,Popillia japonica,PopilliaJaponica-PHT
+994,POPIJA,japanbille,no,,Popillia japonica,PopilliaJaponica-PHT
+995,TOXOCI,brown citrus aphid,en,,Aphis citricidus,ToxopteraCitricida-PHT
+996,TOXOCI,oriental black citrus aphid,en,,Aphis citricidus,ToxopteraCitricida-PHT
+997,TOXOCI,tropical citrus aphid,en,,Aphis citricidus,ToxopteraCitricida-PHT
+998,TOXOCI,braune Citrusblattlaus,de,,Aphis citricidus,ToxopteraCitricida-PHT
+999,TOXOCI,braune Zitrusblattlaus,de,,Aphis citricidus,ToxopteraCitricida-PHT
+1000,TOXOCI,braune Zitruslaus,de,,Aphis citricidus,ToxopteraCitricida-PHT
+1001,TOXOCI,puceron toxoptère citricide,fr,,Aphis citricidus,ToxopteraCitricida-PHT
+1002,TOXOCI,puceron tropical de l'oranger,fr,,Aphis citricidus,ToxopteraCitricida-PHT
+1003,TOXOCI,afido vector de la tristeza en cítricos,es,,Aphis citricidus,ToxopteraCitricida-PHT
+1004,TOXOCI,piojo de los cítricos,es,,Aphis citricidus,ToxopteraCitricida-PHT
+1005,TOXOCI,pulgón café de los cítricos,es,,Aphis citricidus,ToxopteraCitricida-PHT
+1006,TOXOCI,pulgón citricida,es,,Aphis citricidus,ToxopteraCitricida-PHT
+1007,TOXOCI,pulgón de la tristeza,es,,Aphis citricidus,ToxopteraCitricida-PHT
+1008,TOXOCI,pulgón de los citrus,es,,Aphis citricidus,ToxopteraCitricida-PHT
+1009,TOXOCI,pulgão-preto-da-laranjeira,pt,,Aphis citricidus,ToxopteraCitricida-PHT
+1010,TOXOCI,mikan-kuro-aburamusi,ja,,Aphis citricidus,ToxopteraCitricida-PHT
+1011,TRIZER,African citrus psyllid,en,,Trioza erytreae,TriozaErytreae-PHT
+1012,TRIZER,ostafrikanischer Citrusblattfloh,de,,Trioza erytreae,TriozaErytreae-PHT
+1013,TRIZER,ostafrikanischer Zitrusblattfloh,de,,Trioza erytreae,TriozaErytreae-PHT
+1014,TRIZER,psylle des agrumes,fr,,Trioza erytreae,TriozaErytreae-PHT
+1015,TRIZER,psila africana de los cítricos,es,,Trioza erytreae,TriozaErytreae-PHT
+1016,BURSXY,pine wilt disease,en,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1017,BURSXY,pine wood nematode,en,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1018,BURSXY,pinewood nematode,en,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1019,BURSXY,Kiefernholznematode,de,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1020,BURSXY,dépérissement des pins,fr,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1021,BURSXY,nématode du bois de pin,fr,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1022,BURSXY,nématode du pin,fr,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1023,BURSXY,nematodo de la madera del pino,es,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1024,BURSXY,dennenhoutnematode,nl,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1025,BURSXY,nemátode da madeira do pinheiro,pt,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1026,BURSXY,tallvedsnematod,sv,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1027,BURSXY,сосновая древесная нематода,ru,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1028,BURSXY,сосновая стволовая нематода,ru,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1029,BURSXY,Сосновая стволовая нематода,ru,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1030,BURSXY,węgorek sosnowiec,pl,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1031,HETDPA,pale potato cyst nematode,en,,Globodera pallida,GloboderaPallida-PHT
+1032,HETDPA,white potato cyst nematode,en,,Globodera pallida,GloboderaPallida-PHT
+1033,HETDPA,cremefarbenes Kartoffelzystenälchen,de,,Globodera pallida,GloboderaPallida-PHT
+1034,HETDPA,weißer Kartoffelnematode,de,,Globodera pallida,GloboderaPallida-PHT
+1035,HETDPA,nématode blanc de la pomme de terre,fr,,Globodera pallida,GloboderaPallida-PHT
+1036,HETDPA,nematodo quiste blanco de la papa,es,,Globodera pallida,GloboderaPallida-PHT
+1037,HETDPA,nemátode de quisto da batateira,pt,,Globodera pallida,GloboderaPallida-PHT
+1038,HETDPA,Бледная картофельная нематода,ru,,Globodera pallida,GloboderaPallida-PHT
+1039,HETDRO,golden nematode,en,,Globodera rostochiensis,GloboderaPallida-PHT
+1040,HETDRO,golden nematode,en,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1041,HETDRO,golden potato nematode,en,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1042,HETDRO,potato cyst nematode,en,,Globodera rostochiensis,GloboderaPallida-PHT
+1043,HETDRO,potato cyst nematode,en,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1044,HETDRO,yellow potato cyst nematode,en,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1045,HETDRO,goldfarbenes Kartoffelzystenälchen,de,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1046,HETDRO,Kartoffelälchen,de,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1047,HETDRO,Kartoffelnematode,de,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1048,HETDRO,anguillule à kyste de la pomme de terre,fr,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1049,HETDRO,anguillule des racines de la pomme de terre,fr,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1050,HETDRO,nématode doré de la pomme de terre,fr,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1051,HETDRO,nematodo dorado de la patata,es,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1052,HETDRO,anguillula della patata,it,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1053,HETDRO,aardappelcystenaaltje,nl,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1054,HETDRO,nemátode dourado da batateira,pt,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1055,HETDRO,nematóide-dourado-da-batata,pt,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1056,HETDRO,potatiscystnematod,sv,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1057,HETDRO,золотистая картофельная нематода,ru,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1058,HETDRO,Золотистая картофельная нематода,ru,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1059,HETDRO,kartoffelal,da,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1060,HETDRO,kartottelcystenematod,da,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1061,HETDRO,potetcystenematode,no,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1062,HETDRO,peruna-ankeroinen,fi,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1063,HETDRO,nematode sibsamini,fa,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1064,MELGCH,Columbia root-knot nematode,en,,Meloidogyne chitwoodi,MeloidogyneChitwoodi-PHT
+1065,MELGCH,nématode cécidogène du Columbia,fr,,Meloidogyne chitwoodi,MeloidogyneChitwoodi-PHT
+1066,MELGCH,Колумбийская галловая нематода,ru,,Meloidogyne chitwoodi,MeloidogyneChitwoodi-PHT
+1067,MELGFA,false Columbia root-knot nematode,en,,Meloidogyne fallax,MeloidogyneFallax-PHT
+1068,MELGFA,bedrieglijk maiswortelknobbel nematode,nl,,Meloidogyne fallax,MeloidogyneFallax-PHT
+1069,PHYP64,bacco 22A disease,en,,Grapevine flavescence dorée phytoplasma,GrapevineFlavescence-PHT
+1070,PHYP64,flavescence dorée of grapevine,en,,Grapevine flavescence dorée phytoplasma,GrapevineFlavescence-PHT
+1071,PHYP64,flavescence dorée de la vigne,fr,,Grapevine flavescence dorée phytoplasma,GrapevineFlavescence-PHT
+1072,PHYP64,rougeau,fr,,Grapevine flavescence dorée phytoplasma,GrapevineFlavescence-PHT
+1073,PHYP64,flavescencia dorada de la vid,es,,Grapevine flavescence dorée phytoplasma,GrapevineFlavescence-PHT
+1074,PHYP64,flavescenza dorata de la vite,it,,Grapevine flavescence dorée phytoplasma,GrapevineFlavescence-PHT
+1075,PHYP64,Фитоплазма золотистого пожелтения винограда,ru,,Grapevine flavescence dorée phytoplasma,GrapevineFlavescence-PHT
+1076,CORBFL,Curtobacterium flaccumfaciens pv. flaccumfaciens,,,Curtobacterium flaccumfaciens pv. flaccumfaciens,CurtobacteriumFlaccumfaciensPvPoinsettiae-PHT
+1077,ERWIST,Pantoea stewartii subsp. stewartii,,,Pantoea stewartii subsp. stewartii,PantoeaStewartii-PHT
+1078,RALSPS,Ralstonia pseudosolanacearum,,,Ralstonia pseudosolanacearum,RalstoniaPseudosolanacearum-PHT
+1079,RALSSC,Ralstonia syzygii subsp. celebesensis,,,Ralstonia syzygii subsp. celebesensis,RalstoniaSyzygii-PHT
+1080,RALSSI,Ralstonia syzygii subsp. indonesiensis,,,Ralstonia syzygii subsp. indonesiensis,RalstoniaSyzygii-PHT
+1081,XANTAU,Xanthomonas citri pv. aurantifolii,,,Xanthomonas citri pv. aurantifolii,XanthomonasCitriCitri-PHT
+1082,XANTCI,Xanthomonas citri pv. citri,,,Xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+1083,CRSPAN,Anisogramma anomala,,,Anisogramma anomala,AnisogrammaAnomala-PHT
+1084,DIBOMO,Apiosporina morbosa,,,Apiosporina morbosa,ApiosporinaMorbosa-PHT
+1085,PHYOPI,Botryosphaeria kuwatsukai,,,Botryosphaeria kuwatsukai,BotryosphaeriaKuwatsukai-PHT
+1086,CERAFA,Bretziella fagacearum,,,Bretziella fagacearum,CeratocystisFagacearum-PHT
+1087,CHMYAR,Chrysomyxa arctostaphyli,,,Chrysomyxa arctostaphyli,ChrysomyxaArctostaphyli-PHT
+1088,1CRONG,Cronartium,,,Cronartium,Cronartium-PHT
+1089,ENDCPI,Cronartium pini,,,Cronartium pini,Cronartium-PHT
+1090,CRONRI,Cronartium ribicola,,,Cronartium ribicola,Cronartium-PHT
+1091,CERAVI,Davidsoniella virescens,,,Davidsoniella virescens,CeratocystisVirescens-PHT
+1092,ELSICI,Elsinoë citricola,,,Elsinoë citricola,ElsinoeCitricola-PHT
+1093,ELSIFA,Elsinoë fawcettii,,,Elsinoë fawcettii,ElsinoeAustralis-PHT
+1094,ELSIFA,Elsinoë fawcettii,,,Elsinoë fawcettii,ElsinoeFawcettii-PHT
+1095,1GYMNG,Gymnosporangium,,,Gymnosporangium,Gymnosporangium-PHT
+1096,GYMNCF,Gymnosporangium clavariiforme,,,Gymnosporangium clavariiforme,Gymnosporangium-PHT
+1097,GYMNCO,Gymnosporangium confusum,,,Gymnosporangium confusum,Gymnosporangium-PHT
+1098,GYMNCR,Gymnosporangium cornutum,,,Gymnosporangium cornutum,Gymnosporangium-PHT
+1099,GYMNFU,Gymnosporangium sabinae,,,Gymnosporangium sabinae,Gymnosporangium-PHT
+1100,GYMNTR,Gymnosporangium tremelloides,,,Gymnosporangium tremelloides,Gymnosporangium-PHT
+1101,PHELSU,Coniferiporia sulphurascens,,,Coniferiporia sulphurascens,ConiferiporiaSulphurascens-PHT
+1102,INONWE,Coniferiporia weirii,,,Coniferiporia weirii,PhellinusWeirii-PHT
+1103,MELMFA,Melampsora farlowii,,,Melampsora farlowii,MelampsoraFarlowii-PHT
+1104,MELMMT,Melampsora medusae f. sp. tremuloidis,,,Melampsora medusae f. sp. tremuloidis,MelampsoraMedusae-PHT
+1105,PHOMAN,Stagonosporopsis andigena,,,Stagonosporopsis andigena,StagonosporopsisAndigena-PHT
+1106,GUIGCI,Phyllosticta citricarpa,,,Phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+1107,PHYSSL,Phyllosticta solitaria,,,Phyllosticta solitaria,PhyllostictaSolitaria-PHT
+1108,PHMPOM,Phymatotrichopsis omnivora,,,Phymatotrichopsis omnivora,PhymatotrichopsisOmnivora-PHT
+1109,PHYTRA,Phytophthora ramorum,,,Phytophthora ramorum,PhytophthoraRamorum-PHT
+1110,CERCAN,Pseudocercospora angolensis,,,Pseudocercospora angolensis,PseudocercosporaAngolensis-PHT
+1111,CERSPD,Pseudocercospora pini-densiflorae,,,Pseudocercospora pini-densiflorae,PseudocercosporaPiniDensiflorae-PHT
+1112,PUCCPT,Puccinia pittieriana,,,Puccinia pittieriana,PucciniaPittieriana-PHT
+1113,SEPTLM,Septoria malagutii,,,Septoria malagutii,SeptoriaMalagutii-PHT
+1114,MYCOPP,Sphaerulina musiva,,,Sphaerulina musiva,SphaerulinaMusiva-PHT
+1115,GNOMUL,Stegophora ulmea,,,Stegophora ulmea,StegophoraUlmea-PHT
+1116,THPHSO,Thecaphora solani,,,Thecaphora solani,ThecaphoraSolani-PHT
+1117,NEOVIN,Tilletia indica,,,Tilletia indica,TilletiaIndica-PHT
+1118,VENTNA,Venturia nashicola,,,Venturia nashicola,VenturiaNashicola-PHT
+1119,AGRLAX,Agrilus anxius,,,Agrilus anxius,AgrilusAnxiusGory-PHT
+1120,AGRLPL,Agrilus planipennis,,,Agrilus planipennis,AgrilusPlanipennis-PHT
+1121,ALECWO,Aleurocanthus woglumi,,,Aleurocanthus woglumi,AleurocanthusWoglumi-PHT
+1122,AMAZMA,Nemorimyza maculosa,,,Nemorimyza maculosa,NemorimyzaMaculosa-PHT
+1123,ANMLOR,Exomala orientalis,,,Exomala orientalis,BlitoperthaOrientalis-PHT
+1124,ANOLGL,Anoplophora glabripennis,,,Anoplophora glabripennis,AnoplophoraGlabripennis-PHT
+1125,ANTHBI,Anthonomus bisignifer,,,Anthonomus bisignifer,AnthonomusBisignifer-PHT
+1126,ANTHEU,Anthonomus eugenii,,,Anthonomus eugenii,AnthonomusEugeniiCano-PHT
+1127,ANTHGR,Anthonomus grandis grandis,,,Anthonomus grandis grandis,AnthonomusGrandis-PHT
+1128,TACYQU,Anthonomus quadrigibbus,,,Anthonomus quadrigibbus,TachypterellusQuadrigibbus-PHT
+1129,ANTHSI,Anthonomus signatus,,,Anthonomus signatus,AnthonomusBisignifer-PHT
+1130,ANTHSI,Anthonomus signatus,,,Anthonomus signatus,AnthonomusSignatus-PHT
+1131,ARRHMI,Arrhenodes minutus,,,Arrhenodes minutus,ArrhenodesMinutus-PHT
+1132,ASCXEP,Aschistonyx eppoi,,,Aschistonyx eppoi,AschistonyxEppoi-PHT
+1133,PARZCO,Bactericera cockerelli,,,Bactericera cockerelli,BactericeraCockerelli-PHT
+1134,BEMITA,Bemisia tabaci,,,Bemisia tabaci,BemisiaTabaci-PHT
+1135,CARSSA,Carposina sasakii,,,Carposina sasakii,CarposinaNiponensis-PHT
+1136,CARSSA,Carposina sasakii,,,Carposina sasakii,CarposinaSasakii-PHT
+1137,CARNFU,Xyphon fulgidum,,,Xyphon fulgidum,XyphonFulgidum-PHT
+1138,DRAEMI,Draeculacephala minerva,,,Draeculacephala minerva,DraeculacephalaMinerva-PHT
+1139,GRCPAT,Graphocephala atropunctata,,,Graphocephala atropunctata,Cicadellidae-PHT
+1140,GRCPAT,Graphocephala atropunctata,,,Graphocephala atropunctata,GraphocephalaAtropunctata-PHT
+1141,HOMLTR,Homalodisca vitripennis,,,Homalodisca vitripennis,HomalodiscaVitripennis-PHT
+1142,CONHNE,Conotrachelus nenuphar,,,Conotrachelus nenuphar,ConotrachelusNenuphar-PHT
+1143,DENDSI,Dendrolimus sibiricus,,,Dendrolimus sibiricus,DendrolimuSibiricus-PHT
+1144,DIABLO,Diabrotica barberi,,,Diabrotica barberi,DiabroticaBarberi-PHT
+1145,DIABUH,Diabrotica undecimpunctata howardi,,,Diabrotica undecimpunctata howardi,DiabroticaUndecimpunctataHowardi-PHT
+1146,DIABUH,Diabrotica undecimpunctata howardi,,,Diabrotica undecimpunctata howardi,DiabroticaUndecimpunctataUndecimpunctata-PHT
+1147,DIABUN,Diabrotica undecimpunctata undecimpunctata,,,Diabrotica undecimpunctata undecimpunctata,DiabroticaUndecimpunctataUndecimpunctata-PHT
+1148,DIABVZ,Diabrotica virgifera zeae,,,Diabrotica virgifera zeae,DiabroticaVirgiferaZeae-PHT
+1149,DIAACI,Diaphorina citri,,,Diaphorina citri,DiaphorinaCitriKuway-PHT
+1150,EOTELE,Eotetranychus lewisi,,,Eotetranychus lewisi,EotetranychusLewisi-PHT
+1151,CYDIIN,Grapholita inopinata,,,Grapholita inopinata,GrapholitaInopinata-PHT
+1152,LASPPA,Grapholita packardi,,,Grapholita packardi,GrapholitaPackardi-PHT
+1153,LASPPR,Grapholita prunivora,,,Grapholita prunivora,GrapholitaPrunivora-PHT
+1154,HELIZE,Helicoverpa zea,,,Helicoverpa zea,HelicoverpaZea-PHT
+1155,HISHPH,Hishimonus phycitis,,,Hishimonus phycitis,HishimonusPhycitis-PHT
+1156,GNORLY,Keiferia lycopersicella,,,Keiferia lycopersicella,KeiferiaLycopersicella-PHT
+1157,LOPLJA,Lopholeucaspis japonica,,,Lopholeucaspis japonica,LopholeucaspisJaponica-PHT
+1158,LIRISA,Liriomyza sativae,,,Liriomyza sativae,LiriomyzaSativae-PHT
+1159,HYROBO,Listronotus bonariensis,,,Listronotus bonariensis,ListronotusBonariensis-PHT
+1160,1MARGG,Margarodes,,,Margarodes,MargarodesPrieskaensis-PHT
+1161,1MARGG,Margarodes,,,Margarodes,MargarodesVitis-PHT
+1162,1MARGG,Margarodes,,,Margarodes,MargarodesVredendalensis-PHT
+1163,MARGPR,Margarodes prieskaensis,,,Margarodes prieskaensis,MargarodesPrieskaensis-PHT
+1164,MARGPR,Margarodes prieskaensis,,,Margarodes prieskaensis,MargarodesVitis-PHT
+1165,MARGPR,Margarodes prieskaensis,,,Margarodes prieskaensis,MargarodesVredendalensis-PHT
+1166,MARGVI,Margarodes vitis,,,Margarodes vitis,MargarodesPrieskaensis-PHT
+1167,MARGVI,Margarodes vitis,,,Margarodes vitis,MargarodesVitis-PHT
+1168,MARGVI,Margarodes vitis,,,Margarodes vitis,MargarodesVredendalensis-PHT
+1169,MARGVR,Margarodes vredendalensis,,,Margarodes vredendalensis,MargarodesPrieskaensis-PHT
+1170,MARGVR,Margarodes vredendalensis,,,Margarodes vredendalensis,MargarodesVitis-PHT
+1171,MARGVR,Margarodes vredendalensis,,,Margarodes vredendalensis,MargarodesVredendalensis-PHT
+1172,1MONCG,Monochamus,,,Monochamus,Monochamus-PHT
+1173,MYNDCR,Haplaxius crudus,,,Haplaxius crudus,HaplaxiusCrudus-PHT
+1174,GRAGLE,Naupactus leucoloma,,,Naupactus leucoloma,NaupactusLeucolomaBoheman-PHT
+1175,NEOLEL,Neoleucinodes elegantalis,,,Neoleucinodes elegantalis,NeoleucinodesElegantalis-PHT
+1176,OEMOHI,Oemona hirta,,,Oemona hirta,OemonaHirta-PHT
+1177,OLIGPD,Oligonychus perditus,,,Oligonychus perditus,OligonychusPerditus-PHT
+1178,PISOFA,Pissodes fasciatus,,,Pissodes fasciatus,PissodesFasciatus-PHT
+1179,PISONE,Pissodes nemorensis,,,Pissodes nemorensis,PissodesNemorensis-PHT
+1180,PISONI,Pissodes nitidus,,,Pissodes nitidus,PissodesNitidus-PHT
+1181,PISOPU,Pissodes punctatus,,,Pissodes punctatus,PissodesPunctatus-PHT
+1182,PISOST,Pissodes strobi,,,Pissodes strobi,PissodesStrobi-PHT
+1183,PISOTE,Pissodes terminalis,,,Pissodes terminalis,PissodesTerminalis-PHT
+1184,PISOYU,Pissodes yunnanensis,,,Pissodes yunnanensis,PissodesYunnanensis-PHT
+1185,POLGPR,Polygraphus proximus,,,Polygraphus proximus,PolygraphusProximus-PHT
+1186,1PREMG,Premnotrypes,,,Premnotrypes,Premnotrypes-PHT
+1187,PSDPMI,Pseudopityophthorus minutissimus,,,Pseudopityophthorus minutissimus,PseudopityophthorusMinutissimus-PHT
+1188,PSDPPR,Pseudopityophthorus pruinosus,,,Pseudopityophthorus pruinosus,PseudopityophthorusPruinosus-PHT
+1189,RHIOHI,Ripersiella hibisci,,,Ripersiella hibisci,RhizoecusHibisci-PHT
+1190,RHYCPA,Rhynchophorus palmarum,,,Rhynchophorus palmarum,RhynchophorusPalmarum-PHT
+1191,SAPECN,Saperda candida,,,Saperda candida,SaperdaCandida-PHT
+1192,SCITAU,Scirtothrips aurantii,,,Scirtothrips aurantii,ScirtothripsAurantii-PHT
+1193,SCITCI,Scirtothrips citri,,,Scirtothrips citri,ScirtothripsCitri-PHT
+1194,SCITDO,Scirtothrips dorsalis,,,Scirtothrips dorsalis,ScirtothripsDorsalis-PHT
+1195,PRODER,Spodoptera eridania,,,Spodoptera eridania,SpodopteraEridania-PHT
+1196,LAPHFR,Spodoptera frugiperda,,,Spodoptera frugiperda,SpodopteraFrugiperda-PHT
+1197,PRODLI,Spodoptera litura,,,Spodoptera litura,SpodopteraLitura-PHT
+1198,TECASO,Tecia solanivora,,,Tecia solanivora,TeciaSolanivora-PHT
+1199,1TEPHF,Tephritidae,,,Tephritidae,Tephritidae-PHT
+1200,ANSTFR,Anastrepha fraterculus,,,Anastrepha fraterculus,AnastrephaFraterculus-PHT
+1201,ANSTFR,Anastrepha fraterculus,,,Anastrepha fraterculus,Tephritidae-PHT
+1202,ANSTLU,Anastrepha ludens,,,Anastrepha ludens,AnastrephaLudens-PHT
+1203,ANSTLU,Anastrepha ludens,,,Anastrepha ludens,Tephritidae-PHT
+1204,ANSTOB,Anastrepha obliqua,,,Anastrepha obliqua,AnastrephaObliqua-PHT
+1205,ANSTOB,Anastrepha obliqua,,,Anastrepha obliqua,Tephritidae-PHT
+1206,ANSTSU,Anastrepha suspensa,,,Anastrepha suspensa,AnastrephaSuspensa-PHT
+1207,ANSTSU,Anastrepha suspensa,,,Anastrepha suspensa,Tephritidae-PHT
+1208,DACUDO,Bactrocera dorsalis,,,Bactrocera dorsalis,BactroceraDorsalis-PHT
+1209,DACUDO,Bactrocera dorsalis,,,Bactrocera dorsalis,BactroceraTsuneonis-PHT
+1210,DACUDO,Bactrocera dorsalis,,,Bactrocera dorsalis,ZeugodacusCucurbitae-PHT
+1211,DACUTR,Bactrocera tryoni,,,Bactrocera tryoni,BactroceraTryoni-PHT
+1212,DACUTR,Bactrocera tryoni,,,Bactrocera tryoni,BactroceraTsuneonis-PHT
+1213,DACUTR,Bactrocera tryoni,,,Bactrocera tryoni,ZeugodacusCucurbitae-PHT
+1214,DACUTS,Bactrocera tsuneonis,,,Bactrocera tsuneonis,BactroceraTsuneonis-PHT
+1215,DACUTS,Bactrocera tsuneonis,,,Bactrocera tsuneonis,ZeugodacusCucurbitae-PHT
+1216,DACUZO,Bactrocera zonata,,,Bactrocera zonata,BactroceraTsuneonis-PHT
+1217,DACUZO,Bactrocera zonata,,,Bactrocera zonata,BactroceraZonata-PHT
+1218,DACUZO,Bactrocera zonata,,,Bactrocera zonata,ZeugodacusCucurbitae-PHT
+1219,DACUCI,Dacus ciliatus,,,Dacus ciliatus,DacusCiliatus-PHT
+1220,DACUCI,Dacus ciliatus,,,Dacus ciliatus,Tephritidae-PHT
+1221,EPOCCA,Euphranta canadensis,,,Euphranta canadensis,EuphrantaCanadensis-PHT
+1222,EPOCCA,Euphranta canadensis,,,Euphranta canadensis,Tephritidae-PHT
+1223,CERTCY,Neoceratitis cyanescens,,,Neoceratitis cyanescens,NeoceratitisCyanescens-PHT
+1224,CERTQU,Ceratitis quinaria,,,Ceratitis quinaria,CeratitisQuinaria-PHT
+1225,CERTRO,Ceratitis rosa,,,Ceratitis rosa,CeratitisRosa-PHT
+1226,RHACJA,Euphranta japonica,,,Euphranta japonica,EuphrantaJaponica-PHT
+1227,RHAGFA,Rhagoletis fausta,,,Rhagoletis fausta,RhagoletisFausta-PHT
+1228,RHAGFA,Rhagoletis fausta,,,Rhagoletis fausta,Tephritidae-PHT
+1229,RHAGIN,Rhagoletis indifferens,,,Rhagoletis indifferens,RhagoletisIndifferens-PHT
+1230,RHAGIN,Rhagoletis indifferens,,,Rhagoletis indifferens,Tephritidae-PHT
+1231,RHAGME,Rhagoletis mendax,,,Rhagoletis mendax,RhagoletisMendax-PHT
+1232,RHAGME,Rhagoletis mendax,,,Rhagoletis mendax,Tephritidae-PHT
+1233,RHAGPO,Rhagoletis pomonella,,,Rhagoletis pomonella,RhagoletisPomonella-PHT
+1234,RHAGPO,Rhagoletis pomonella,,,Rhagoletis pomonella,Tephritidae-PHT
+1235,RHAGRI,Rhagoletis ribicola,,,Rhagoletis ribicola,RhagoletisRibicola-PHT
+1236,RHAGRI,Rhagoletis ribicola,,,Rhagoletis ribicola,Tephritidae-PHT
+1237,RHAGSU,Rhagoletis suavis,,,Rhagoletis suavis,RhagoletisSuavis-PHT
+1238,RHAGSU,Rhagoletis suavis,,,Rhagoletis suavis,Tephritidae-PHT
+1239,DACUCU,Zeugodacus cucurbitae,,,Zeugodacus cucurbitae,ZeugodacusCucurbitae-PHT
+1240,ARGPLE,Thaumatotibia leucotreta,,,Thaumatotibia leucotreta,ThaumatotibiaLeucotreta-PHT
+1241,THRIPL,Thrips palmi,,,Thrips palmi,ThripsPalmi-PHT
+1242,UNASCI,Unaspis citri,,,Unaspis citri,UnaspisCitri-PHT
+1243,HIRSGR,Hirschmanniella gracilis,,,Hirschmanniella gracilis,Hirschmanniellaspp-PHT
+1244,LONGDI,Longidorus diadecturus,,,Longidorus diadecturus,LongidorusDiadecturus-PHT
+1245,NACOBA,Nacobbus aberrans,,,Nacobbus aberrans,NacobbusAberrans-PHT
+1246,XIPHAA,Xiphinema americanum sensu stricto,,,Xiphinema americanum sensu stricto,XiphinemaAmericanum-PHT
+1247,XIPHBC,Xiphinema bricolense,,,Xiphinema bricolense,XiphinemaBricolense-PHT
+1248,XIPHCA,Xiphinema californicum,,,Xiphinema californicum,XiphinemaAmericanum-PHT
+1249,XIPHCA,Xiphinema californicum,,,Xiphinema californicum,XiphinemaCalifornicum-PHT
+1250,XIPHNA,Xiphinema neoamericanum,,,Xiphinema neoamericanum,XiphinemaNeoamericanum-PHT
+1251,XIPHRI,Xiphinema rivesi,,,Xiphinema rivesi,XiphinemaRivesi-PHT
+1252,XIPHTA,Xiphinema tarjanense,,,Xiphinema tarjanense,XiphinemaTarjanense-PHT
+1253,1AREG,Arceuthobium,,,Arceuthobium,Arceuthobium-PHT
+1254,AREAZ,Arceuthobium azoricum,,,Arceuthobium azoricum,Arceuthobium-PHT
+1255,AREOX,Arceuthobium oxycedri,,,Arceuthobium oxycedri,Arceuthobium-PHT
+1256,BCTV00,Beet curly top virus,,,Beet curly top virus,BeetCurlyTopVirus-PHT
+1257,CCCVD0,Coconut cadang-cadang viroid,,,Coconut cadang-cadang viroid,CoconutCadangCadangViroid-PHT
+1258,CSNV00,Chrysanthemum stem necrosis virus,,,Chrysanthemum stem necrosis virus,ChrysanthemumStemNecrosis-PHT
+1259,CTV000,Citrus tristeza virus,,,Citrus tristeza virus,CitrusTristezaVirus-PHT
+1260,CILV00,Citrus leprosis disease,,,Citrus leprosis disease,CitrusLeprosisVirus-PHT
+1261,CILVC0,Citrus leprosis virus C,,,Citrus leprosis virus C,CitrusLeprosisVirus-PHT
+1262,CILVC2,Citrus leprosis virus C2,,,Citrus leprosis virus C2,CitrusLeprosisVirus-PHT
+1263,PHYP56,Coconut lethal yellowing phytoplasma,,,Coconut lethal yellowing phytoplasma,PalmLethalYellowingMycoplasm-PHT
+1264,PHYP56,Coconut lethal yellowing phytoplasma,,,Coconut lethal yellowing phytoplasma,PalmLethalYellowingPhytoplasmas-PHT
+1265,APLV00,Andean potato latent virus,,,Andean potato latent virus,AndeanPotatoLatentVirus-PHT
+1266,APMOV0,Andean potato mottle virus,,,Andean potato mottle virus,AndeanPotatoMottleVirus-PHT
+1267,AVBO00,Arracacha virus B oca strain,,,Arracacha virus B oca strain,ArracachaVirusB-PHT
+1268,PBRSV0,Potato black ringspot virus,,,Potato black ringspot virus,PotatoBlackRingspotVirus-PHT
+1269,PVT000,Potato virus T,,,Potato virus T,PotatoVirusT-PHT
+1270,PVA000,Potato virus A,,,Potato virus A,PotatoLeafrollVirus-PHT
+1271,PVA000,Potato virus A,,,Potato virus A,PotatoVirusA-PHT
+1272,PVM000,Potato virus M,,,Potato virus M,PotatoLeafrollVirus-PHT
+1273,PVM000,Potato virus M,,,Potato virus M,PotatoVirusM-PHT
+1274,PVS000,Potato virus S,,,Potato virus S,PotatoLeafrollVirus-PHT
+1275,PVS000,Potato virus S,,,Potato virus S,PotatoVirusS-PHT
+1276,PVV000,Potato virus V,,,Potato virus V,PotatoLeafrollVirus-PHT
+1277,PVV000,Potato virus V,,,Potato virus V,PotatoVirusV-PHT
+1278,PVX000,Potato virus X,,,Potato virus X,PotatoLeafrollVirus-PHT
+1279,PVX000,Potato virus X,,,Potato virus X,PotatoVirusX-PHT
+1280,PVY000,Potato virus Y,,,Potato virus Y,PotatoLeafrollVirus-PHT
+1281,PVY000,Potato virus Y,,,Potato virus Y,PotatoVirusY-PHT
+1282,PVYN00,Potato virus Y tobacco veinal necrosis strain,,,Potato virus Y tobacco veinal necrosis strain,PotatoLeafrollVirus-PHT
+1283,PVYN00,Potato virus Y tobacco veinal necrosis strain,,,Potato virus Y tobacco veinal necrosis strain,PotatoVirusY-PHT
+1284,PVYC00,Potato virus Y stipple streak strain,,,Potato virus Y stipple streak strain,PotatoLeafrollVirus-PHT
+1285,PVYC00,Potato virus Y stipple streak strain,,,Potato virus Y stipple streak strain,PotatoVirusY-PHT
+1286,PLRV00,Potato leafroll virus,,,Potato leafroll virus,PotatoLeafrollVirus-PHT
+1287,SDV000,Satsuma dwarf virus,,,Satsuma dwarf virus,CitrusYellowMosaicVirus-PHT
+1288,SDV000,Satsuma dwarf virus,,,Satsuma dwarf virus,SatsumaDwarfVirus-PHT
+1289,TRSV00,Tobacco ringspot virus,,,Tobacco ringspot virus,TobaccoRingspotVirus-PHT
+1290,TRSV00,Tobacco ringspot virus,,,Tobacco ringspot virus,TomatoRingspotVirus-PHT
+1291,TORSV0,Tomato ringspot virus,,,Tomato ringspot virus,TomatoRingspotVirus-PHT
+1292,BLMOV0,Blueberry leaf mottle virus,,,Blueberry leaf mottle virus,BlueberryLeafMottleVirus-PHT
+1293,CRLV00,Cherry rasp leaf virus,,,Cherry rasp leaf virus,CherryRaspLeafVirus-PHT
+1294,PCMV00,Peach mosaic virus,,,Peach mosaic virus,PeachMosaicVirus-PHT
+1295,PCMV00,Peach mosaic virus,,,Peach mosaic virus,PeachRosetteMosaicVirus-PHT
+1296,PRMV00,Peach rosette mosaic virus,,,Peach rosette mosaic virus,PeachRosetteMosaicVirus-PHT
+1297,APLPV0,American plum line pattern virus,,,American plum line pattern virus,AmericanPlumLinePatternVirus-PHT
+1298,RLCV00,Raspberry leaf curl virus,,,Raspberry leaf curl virus,RaspberryLeafCurlVirus-PHT
+1299,TOLCND,Tomato leaf curl New Delhi virus,,,Tomato leaf curl New Delhi virus,TomatoLeafCurlNewDelhiVirus-PHT
+1300,CPMMV0,Cowpea mild mottle virus,,,Cowpea mild mottle virus,BemisiaTabaci-PHT
+1301,CPMMV0,Cowpea mild mottle virus,,,Cowpea mild mottle virus,CowpeaMildMottleVirus-PHT
+1302,LIYV00,Lettuce infectious yellows virus,,,Lettuce infectious yellows virus,BemisiaTabaci-PHT
+1303,LIYV00,Lettuce infectious yellows virus,,,Lettuce infectious yellows virus,LettuceInfectiousYellowsVirus-PHT
+1304,MYAV00,Melon yellowing-associated virus,,,Melon yellowing-associated virus,MelonYellowingAssociatedVirus-PHT
+1305,SPCSV0,Sweet potato chlorotic stunt virus,,,Sweet potato chlorotic stunt virus,SweetPotatoChloroticStuntVirus-PHT
+1306,SPMMV0,Sweet potato mild mottle virus,,,Sweet potato mild mottle virus,SweetPotatoMildMottleVirus-PHT
+1307,TOCHV0,Tomato chocolàte virus,,,Tomato chocolàte virus,TomatoChocolateVirus-PHT
+1308,TOANV0,Tomato marchitez virus,,,Tomato marchitez virus,TomatoMarchitezVirus-PHT
+1309,TOMMOV,Tomato mild mottle virus,,,Tomato mild mottle virus,TomatoMildMottleVirus-PHT
+1310,CORBSE,Clavibacter sepedonicus,,,Clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+1311,RALSSL,Ralstonia solanacearum,,,Ralstonia solanacearum,RalstoniaSolanacearum-PHT
+1312,XYLEFA,Xylella fastidiosa,,,Xylella fastidiosa,XylellaFastidiosa-PHT
+1313,GIBBCI,Fusarium circinatum,,,Fusarium circinatum,FusariumCircinatum-PHT
+1314,GEOHMO,Geosmithia morbida,,,Geosmithia morbida,GeosmithiaMorbida-PHT
+1315,SYNCEN,Synchytrium endobioticum,,,Synchytrium endobioticum,SynchytriumEndobioticum-PHT
+1316,ALECSN,Aleurocanthus spiniferus,,,Aleurocanthus spiniferus,Aleurocanthus-PHT
+1317,ALECSN,Aleurocanthus spiniferus,,,Aleurocanthus spiniferus,AleurocanthusSpiniferus-PHT
+1318,ANOLCN,Anoplophora chinensis,,,Anoplophora chinensis,AnoplophoraChinensis-PHT
+1319,AROMBU,Aromia bungii,,,Aromia bungii,AromiaBungii-PHT
+1320,PITOJU,Pityophthorus juglandis,,,Pityophthorus juglandis,PityophthorusJuglandis-PHT
+1321,POPIJA,Popillia japonica,,,Popillia japonica,PopilliaJaponica-PHT
+1322,TOXOCI,Aphis citricidus,,,Aphis citricidus,ToxopteraCitricida-PHT
+1323,TRIZER,Trioza erytreae,,,Trioza erytreae,TriozaErytreae-PHT
+1324,1POMAG,Pomacea,,,Pomacea,Pomacea-PHT
+1325,BURSXY,Bursaphelenchus xylophilus,,,Bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+1326,HETDPA,Globodera pallida,,,Globodera pallida,GloboderaPallida-PHT
+1327,HETDRO,Globodera rostochiensis,,,Globodera rostochiensis,GloboderaRostochiensis-PHT
+1328,MELGCH,Meloidogyne chitwoodi,,,Meloidogyne chitwoodi,MeloidogyneChitwoodi-PHT
+1329,MELGFA,Meloidogyne fallax,,,Meloidogyne fallax,MeloidogyneFallax-PHT
+1330,,Pseudomonas syringae pv. retacarpa,,ncbi:264456,Pseudomonas syringae pv. retacarpa,PseudomonasSyringaePvActinidiae-PHT
+1331,,Cladosporium sp. BADHUN 0701,,ncbi:555699,Cladosporium sp. BADHUN 0701,CladosporiumSp-PHT
+1332,,Draeculacephala sp. BIOUG26718 H08,,ncbi:2180012,Draeculacephala sp. BIOUG26718-H08,DraeculacephalaSp-PHT
+1333,,"Choristoneura occidentalis biennis Freeman, 1967",,ncbi:2911890,Choristoneura occidentalis biennis,ChoristoneuraOccidentalisBiennis-PHT

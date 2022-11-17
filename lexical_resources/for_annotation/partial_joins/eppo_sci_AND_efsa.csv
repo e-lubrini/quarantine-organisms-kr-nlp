@@ -1,0 +1,255 @@
+,EPPO_CODE,preferred_name,synonym,pivot,EFSA_PHT
+0,CORBFL,Curtobacterium flaccumfaciens pv. flaccumfaciens,Curtobacterium flaccumfaciens pv. flaccumfaciens,curtobacterium flaccumfaciens pv. flaccumfaciens,CurtobacteriumFlaccumfaciensPvPoinsettiae-PHT
+50,ERWIST,Pantoea stewartii subsp. stewartii,Pantoea stewartii subsp. stewartii,pantoea stewartii subsp. stewartii,PantoeaStewartii-PHT
+100,RALSPS,Ralstonia pseudosolanacearum,Ralstonia pseudosolanacearum,ralstonia pseudosolanacearum,RalstoniaPseudosolanacearum-PHT
+101,RALSSC,Ralstonia syzygii subsp. celebesensis,Ralstonia syzygii subsp. celebesensis,ralstonia syzygii subsp. celebesensis,RalstoniaSyzygii-PHT
+102,RALSSI,Ralstonia syzygii subsp. indonesiensis,Ralstonia syzygii subsp. indonesiensis,ralstonia syzygii subsp. indonesiensis,RalstoniaSyzygii-PHT
+103,XANTAU,Xanthomonas citri pv. aurantifolii,Xanthomonas citri pv. aurantifolii,xanthomonas citri pv. aurantifolii,XanthomonasCitriCitri-PHT
+119,XANTCI,Xanthomonas citri pv. citri,Xanthomonas citri pv. citri,xanthomonas citri pv. citri,XanthomonasCitriCitri-PHT
+135,CRSPAN,Anisogramma anomala,Anisogramma anomala,anisogramma anomala,AnisogrammaAnomala-PHT
+139,DIBOMO,Apiosporina morbosa,Apiosporina morbosa,apiosporina morbosa,ApiosporinaMorbosa-PHT
+175,PHYOPI,Botryosphaeria kuwatsukai,Botryosphaeria kuwatsukai,botryosphaeria kuwatsukai,BotryosphaeriaKuwatsukai-PHT
+200,CERAFA,Bretziella fagacearum,Bretziella fagacearum,bretziella fagacearum,CeratocystisFagacearum-PHT
+216,CHMYAR,Chrysomyxa arctostaphyli,Chrysomyxa arctostaphyli,chrysomyxa arctostaphyli,ChrysomyxaArctostaphyli-PHT
+220,1CRONG,Cronartium,Cronartium,cronartium,Cronartium-PHT
+221,ENDCPI,Cronartium pini,Cronartium pini,cronartium pini,Cronartium-PHT
+229,CRONRI,Cronartium ribicola,Cronartium ribicola,cronartium ribicola,Cronartium-PHT
+231,CERAVI,Davidsoniella virescens,Davidsoniella virescens,davidsoniella virescens,CeratocystisVirescens-PHT
+240,ELSICI,Elsinoë citricola,Elsinoë citricola,elsinoë citricola,ElsinoeCitricola-PHT
+241,ELSIFA,Elsinoë fawcettii,Elsinoë fawcettii,elsinoë fawcettii,ElsinoeAustralis-PHT
+247,ELSIFA,Elsinoë fawcettii,Elsinoë fawcettii,elsinoë fawcettii,ElsinoeFawcettii-PHT
+313,1GYMNG,Gymnosporangium,Gymnosporangium,gymnosporangium,Gymnosporangium-PHT
+314,GYMNCF,Gymnosporangium clavariiforme,Gymnosporangium clavariiforme,gymnosporangium clavariiforme,Gymnosporangium-PHT
+315,GYMNCO,Gymnosporangium confusum,Gymnosporangium confusum,gymnosporangium confusum,Gymnosporangium-PHT
+324,GYMNCR,Gymnosporangium cornutum,Gymnosporangium cornutum,gymnosporangium cornutum,Gymnosporangium-PHT
+325,GYMNFU,Gymnosporangium sabinae,Gymnosporangium sabinae,gymnosporangium sabinae,Gymnosporangium-PHT
+326,GYMNTR,Gymnosporangium tremelloides,Gymnosporangium tremelloides,gymnosporangium tremelloides,Gymnosporangium-PHT
+327,PHELSU,Coniferiporia sulphurascens,Coniferiporia sulphurascens,coniferiporia sulphurascens,ConiferiporiaSulphurascens-PHT
+336,INONWE,Coniferiporia weirii,Coniferiporia weirii,coniferiporia weirii,PhellinusWeirii-PHT
+361,MELMFA,Melampsora farlowii,Melampsora farlowii,melampsora farlowii,MelampsoraFarlowii-PHT
+365,MELMMT,Melampsora medusae f. sp. tremuloidis,Melampsora medusae f. sp. tremuloidis,melampsora medusae f. sp. tremuloidis,MelampsoraMedusae-PHT
+369,PHOMAN,Stagonosporopsis andigena,Stagonosporopsis andigena,stagonosporopsis andigena,StagonosporopsisAndigena-PHT
+373,GUIGCI,Phyllosticta citricarpa,Phyllosticta citricarpa,phyllosticta citricarpa,PhyllostictaCitricarpa-PHT
+382,PHYSSL,Phyllosticta solitaria,Phyllosticta solitaria,phyllosticta solitaria,PhyllostictaSolitaria-PHT
+383,PHMPOM,Phymatotrichopsis omnivora,Phymatotrichopsis omnivora,phymatotrichopsis omnivora,PhymatotrichopsisOmnivora-PHT
+387,PHYTRA,Phytophthora ramorum,Phytophthora ramorum,phytophthora ramorum,PhytophthoraRamorum-PHT
+390,CERCAN,Pseudocercospora angolensis,Pseudocercospora angolensis,pseudocercospora angolensis,PseudocercosporaAngolensis-PHT
+399,CERSPD,Pseudocercospora pini-densiflorae,Pseudocercospora pini-densiflorae,pseudocercospora pini-densiflorae,PseudocercosporaPiniDensiflorae-PHT
+408,PUCCPT,Puccinia pittieriana,Puccinia pittieriana,puccinia pittieriana,PucciniaPittieriana-PHT
+409,SEPTLM,Septoria malagutii,Septoria malagutii,septoria malagutii,SeptoriaMalagutii-PHT
+413,MYCOPP,Sphaerulina musiva,Sphaerulina musiva,sphaerulina musiva,SphaerulinaMusiva-PHT
+422,GNOMUL,Stegophora ulmea,Stegophora ulmea,stegophora ulmea,StegophoraUlmea-PHT
+486,THPHSO,Thecaphora solani,Thecaphora solani,thecaphora solani,ThecaphoraSolani-PHT
+487,NEOVIN,Tilletia indica,Tilletia indica,tilletia indica,TilletiaIndica-PHT
+488,VENTNA,Venturia nashicola,Venturia nashicola,venturia nashicola,VenturiaNashicola-PHT
+489,AGRLAX,Agrilus anxius,Agrilus anxius,agrilus anxius,AgrilusAnxiusGory-PHT
+493,AGRLPL,Agrilus planipennis,Agrilus planipennis,agrilus planipennis,AgrilusPlanipennis-PHT
+497,ALECWO,Aleurocanthus woglumi,Aleurocanthus woglumi,aleurocanthus woglumi,AleurocanthusWoglumi-PHT
+506,AMAZMA,Nemorimyza maculosa,Nemorimyza maculosa,nemorimyza maculosa,NemorimyzaMaculosa-PHT
+522,ANMLOR,Exomala orientalis,Exomala orientalis,exomala orientalis,BlitoperthaOrientalis-PHT
+538,ANOLGL,Anoplophora glabripennis,Anoplophora glabripennis,anoplophora glabripennis,AnoplophoraGlabripennis-PHT
+539,ANTHBI,Anthonomus bisignifer,Anthonomus bisignifer,anthonomus bisignifer,AnthonomusBisignifer-PHT
+555,ANTHEU,Anthonomus eugenii,Anthonomus eugenii,anthonomus eugenii,AnthonomusEugeniiCano-PHT
+563,ANTHGR,Anthonomus grandis grandis,Anthonomus grandis grandis,anthonomus grandis grandis,AnthonomusGrandis-PHT
+564,TACYQU,Anthonomus quadrigibbus,Anthonomus quadrigibbus,anthonomus quadrigibbus,TachypterellusQuadrigibbus-PHT
+580,ANTHSI,Anthonomus signatus,Anthonomus signatus,anthonomus signatus,AnthonomusBisignifer-PHT
+583,ANTHSI,Anthonomus signatus,Anthonomus signatus,anthonomus signatus,AnthonomusSignatus-PHT
+598,ARRHMI,Arrhenodes minutus,Arrhenodes minutus,arrhenodes minutus,ArrhenodesMinutus-PHT
+698,ASCXEP,Aschistonyx eppoi,Aschistonyx eppoi,aschistonyx eppoi,AschistonyxEppoi-PHT
+699,PARZCO,Bactericera cockerelli,Bactericera cockerelli,bactericera cockerelli,BactericeraCockerelli-PHT
+707,BEMITA,Bemisia tabaci,Bemisia tabaci,bemisia tabaci,BemisiaTabaci-PHT
+963,CARSSA,Carposina sasakii,Carposina sasakii,carposina sasakii,CarposinaNiponensis-PHT
+965,CARSSA,Carposina sasakii,Carposina sasakii,carposina sasakii,CarposinaSasakii-PHT
+971,CARNFU,Xyphon fulgidum,Xyphon fulgidum,xyphon fulgidum,XyphonFulgidum-PHT
+975,DRAEMI,Draeculacephala minerva,Draeculacephala minerva,draeculacephala minerva,DraeculacephalaMinerva-PHT
+976,GRCPAT,Graphocephala atropunctata,Graphocephala atropunctata,graphocephala atropunctata,Cicadellidae-PHT
+980,GRCPAT,Graphocephala atropunctata,Graphocephala atropunctata,graphocephala atropunctata,GraphocephalaAtropunctata-PHT
+1008,HOMLTR,Homalodisca vitripennis,Homalodisca vitripennis,homalodisca vitripennis,HomalodiscaVitripennis-PHT
+1024,CONHNE,Conotrachelus nenuphar,Conotrachelus nenuphar,conotrachelus nenuphar,ConotrachelusNenuphar-PHT
+1025,DENDSI,Dendrolimus sibiricus,Dendrolimus sibiricus,dendrolimus sibiricus,DendrolimuSibiricus-PHT
+1029,DIABLO,Diabrotica barberi,Diabrotica barberi,diabrotica barberi,DiabroticaBarberi-PHT
+1030,DIABUH,Diabrotica undecimpunctata howardi,Diabrotica undecimpunctata howardi,diabrotica undecimpunctata howardi,DiabroticaUndecimpunctataHowardi-PHT
+1033,DIABUH,Diabrotica undecimpunctata howardi,Diabrotica undecimpunctata howardi,diabrotica undecimpunctata howardi,DiabroticaUndecimpunctataUndecimpunctata-PHT
+1048,DIABUN,Diabrotica undecimpunctata undecimpunctata,Diabrotica undecimpunctata undecimpunctata,diabrotica undecimpunctata undecimpunctata,DiabroticaUndecimpunctataUndecimpunctata-PHT
+1056,DIABVZ,Diabrotica virgifera zeae,Diabrotica virgifera zeae,diabrotica virgifera zeae,DiabroticaVirgiferaZeae-PHT
+1057,DIAACI,Diaphorina citri,Diaphorina citri,diaphorina citri,DiaphorinaCitriKuway-PHT
+1059,EOTELE,Eotetranychus lewisi,Eotetranychus lewisi,eotetranychus lewisi,EotetranychusLewisi-PHT
+1060,CYDIIN,Grapholita inopinata,Grapholita inopinata,grapholita inopinata,GrapholitaInopinata-PHT
+1069,LASPPA,Grapholita packardi,Grapholita packardi,grapholita packardi,GrapholitaPackardi-PHT
+1105,LASPPR,Grapholita prunivora,Grapholita prunivora,grapholita prunivora,GrapholitaPrunivora-PHT
+1130,HELIZE,Helicoverpa zea,Helicoverpa zea,helicoverpa zea,HelicoverpaZea-PHT
+1146,HISHPH,Hishimonus phycitis,Hishimonus phycitis,hishimonus phycitis,HishimonusPhycitis-PHT
+1162,GNORLY,Keiferia lycopersicella,Keiferia lycopersicella,keiferia lycopersicella,KeiferiaLycopersicella-PHT
+1171,LOPLJA,Lopholeucaspis japonica,Lopholeucaspis japonica,lopholeucaspis japonica,LopholeucaspisJaponica-PHT
+1175,LIRISA,Liriomyza sativae,Liriomyza sativae,liriomyza sativae,LiriomyzaSativae-PHT
+1256,HYROBO,Listronotus bonariensis,Listronotus bonariensis,listronotus bonariensis,ListronotusBonariensis-PHT
+1265,1MARGG,Margarodes,Margarodes,margarodes,MargarodesPrieskaensis-PHT
+1266,1MARGG,Margarodes,Margarodes,margarodes,MargarodesVitis-PHT
+1267,1MARGG,Margarodes,Margarodes,margarodes,MargarodesVredendalensis-PHT
+1268,MARGPR,Margarodes prieskaensis,Margarodes prieskaensis,margarodes prieskaensis,MargarodesPrieskaensis-PHT
+1270,MARGPR,Margarodes prieskaensis,Margarodes prieskaensis,margarodes prieskaensis,MargarodesVitis-PHT
+1271,MARGPR,Margarodes prieskaensis,Margarodes prieskaensis,margarodes prieskaensis,MargarodesVredendalensis-PHT
+1272,MARGVI,Margarodes vitis,Margarodes vitis,margarodes vitis,MargarodesPrieskaensis-PHT
+1275,MARGVI,Margarodes vitis,Margarodes vitis,margarodes vitis,MargarodesVitis-PHT
+1281,MARGVI,Margarodes vitis,Margarodes vitis,margarodes vitis,MargarodesVredendalensis-PHT
+1308,MARGVR,Margarodes vredendalensis,Margarodes vredendalensis,margarodes vredendalensis,MargarodesPrieskaensis-PHT
+1309,MARGVR,Margarodes vredendalensis,Margarodes vredendalensis,margarodes vredendalensis,MargarodesVitis-PHT
+1310,MARGVR,Margarodes vredendalensis,Margarodes vredendalensis,margarodes vredendalensis,MargarodesVredendalensis-PHT
+1312,1MONCG,Monochamus,Monochamus,monochamus,Monochamus-PHT
+1313,MYNDCR,Haplaxius crudus,Haplaxius crudus,haplaxius crudus,HaplaxiusCrudus-PHT
+1331,GRAGLE,Naupactus leucoloma,Naupactus leucoloma,naupactus leucoloma,NaupactusLeucolomaBoheman-PHT
+1335,NEOLEL,Neoleucinodes elegantalis,Neoleucinodes elegantalis,neoleucinodes elegantalis,NeoleucinodesElegantalis-PHT
+1336,OEMOHI,Oemona hirta,Oemona hirta,oemona hirta,OemonaHirta-PHT
+1361,OLIGPD,Oligonychus perditus,Oligonychus perditus,oligonychus perditus,OligonychusPerditus-PHT
+1362,PISOFA,Pissodes fasciatus,Pissodes fasciatus,pissodes fasciatus,PissodesFasciatus-PHT
+1363,PISONE,Pissodes nemorensis,Pissodes nemorensis,pissodes nemorensis,PissodesNemorensis-PHT
+1372,PISONI,Pissodes nitidus,Pissodes nitidus,pissodes nitidus,PissodesNitidus-PHT
+1373,PISOPU,Pissodes punctatus,Pissodes punctatus,pissodes punctatus,PissodesPunctatus-PHT
+1374,PISOST,Pissodes strobi,Pissodes strobi,pissodes strobi,PissodesStrobi-PHT
+1378,PISOTE,Pissodes terminalis,Pissodes terminalis,pissodes terminalis,PissodesTerminalis-PHT
+1379,PISOYU,Pissodes yunnanensis,Pissodes yunnanensis,pissodes yunnanensis,PissodesYunnanensis-PHT
+1380,POLGPR,Polygraphus proximus,Polygraphus proximus,polygraphus proximus,PolygraphusProximus-PHT
+1405,1PREMG,Premnotrypes,Premnotrypes,premnotrypes,Premnotrypes-PHT
+1406,PSDPMI,Pseudopityophthorus minutissimus,Pseudopityophthorus minutissimus,pseudopityophthorus minutissimus,PseudopityophthorusMinutissimus-PHT
+1407,PSDPPR,Pseudopityophthorus pruinosus,Pseudopityophthorus pruinosus,pseudopityophthorus pruinosus,PseudopityophthorusPruinosus-PHT
+1443,RHIOHI,Ripersiella hibisci,Ripersiella hibisci,ripersiella hibisci,RhizoecusHibisci-PHT
+1444,RHYCPA,Rhynchophorus palmarum,Rhynchophorus palmarum,rhynchophorus palmarum,RhynchophorusPalmarum-PHT
+1493,SAPECN,Saperda candida,Saperda candida,saperda candida,SaperdaCandida-PHT
+1497,SCITAU,Scirtothrips aurantii,Scirtothrips aurantii,scirtothrips aurantii,ScirtothripsAurantii-PHT
+1498,SCITCI,Scirtothrips citri,Scirtothrips citri,scirtothrips citri,ScirtothripsCitri-PHT
+1499,SCITDO,Scirtothrips dorsalis,Scirtothrips dorsalis,scirtothrips dorsalis,ScirtothripsDorsalis-PHT
+1535,PRODER,Spodoptera eridania,Spodoptera eridania,spodoptera eridania,SpodopteraEridania-PHT
+1544,LAPHFR,Spodoptera frugiperda,Spodoptera frugiperda,spodoptera frugiperda,SpodopteraFrugiperda-PHT
+1545,PRODLI,Spodoptera litura,Spodoptera litura,spodoptera litura,SpodopteraLitura-PHT
+1546,TECASO,Tecia solanivora,Tecia solanivora,tecia solanivora,TeciaSolanivora-PHT
+1547,1TEPHF,Tephritidae,Tephritidae,tephritidae,Tephritidae-PHT
+1548,ANSTFR,Anastrepha fraterculus,Anastrepha fraterculus,anastrepha fraterculus,AnastrephaFraterculus-PHT
+1562,ANSTFR,Anastrepha fraterculus,Anastrepha fraterculus,anastrepha fraterculus,Tephritidae-PHT
+1940,ANSTLU,Anastrepha ludens,Anastrepha ludens,anastrepha ludens,AnastrephaLudens-PHT
+1946,ANSTLU,Anastrepha ludens,Anastrepha ludens,anastrepha ludens,Tephritidae-PHT
+1967,ANSTOB,Anastrepha obliqua,Anastrepha obliqua,anastrepha obliqua,AnastrephaObliqua-PHT
+1974,ANSTOB,Anastrepha obliqua,Anastrepha obliqua,anastrepha obliqua,Tephritidae-PHT
+2065,ANSTSU,Anastrepha suspensa,Anastrepha suspensa,anastrepha suspensa,AnastrephaSuspensa-PHT
+2069,ANSTSU,Anastrepha suspensa,Anastrepha suspensa,anastrepha suspensa,Tephritidae-PHT
+2097,DACUDO,Bactrocera dorsalis,Bactrocera dorsalis,bactrocera dorsalis,BactroceraDorsalis-PHT
+2109,DACUDO,Bactrocera dorsalis,Bactrocera dorsalis,bactrocera dorsalis,BactroceraTsuneonis-PHT
+2121,DACUDO,Bactrocera dorsalis,Bactrocera dorsalis,bactrocera dorsalis,ZeugodacusCucurbitae-PHT
+2529,DACUTR,Bactrocera tryoni,Bactrocera tryoni,bactrocera tryoni,BactroceraTryoni-PHT
+2534,DACUTR,Bactrocera tryoni,Bactrocera tryoni,bactrocera tryoni,BactroceraTsuneonis-PHT
+2539,DACUTR,Bactrocera tryoni,Bactrocera tryoni,bactrocera tryoni,ZeugodacusCucurbitae-PHT
+2604,DACUTS,Bactrocera tsuneonis,Bactrocera tsuneonis,bactrocera tsuneonis,BactroceraTsuneonis-PHT
+2610,DACUTS,Bactrocera tsuneonis,Bactrocera tsuneonis,bactrocera tsuneonis,ZeugodacusCucurbitae-PHT
+2631,DACUZO,Bactrocera zonata,Bactrocera zonata,bactrocera zonata,BactroceraTsuneonis-PHT
+2635,DACUZO,Bactrocera zonata,Bactrocera zonata,bactrocera zonata,BactroceraZonata-PHT
+2639,DACUZO,Bactrocera zonata,Bactrocera zonata,bactrocera zonata,ZeugodacusCucurbitae-PHT
+2679,DACUCI,Dacus ciliatus,Dacus ciliatus,dacus ciliatus,DacusCiliatus-PHT
+2689,DACUCI,Dacus ciliatus,Dacus ciliatus,dacus ciliatus,Tephritidae-PHT
+2879,EPOCCA,Euphranta canadensis,Euphranta canadensis,euphranta canadensis,EuphrantaCanadensis-PHT
+2882,EPOCCA,Euphranta canadensis,Euphranta canadensis,euphranta canadensis,Tephritidae-PHT
+2897,CERTCY,Neoceratitis cyanescens,Neoceratitis cyanescens,neoceratitis cyanescens,NeoceratitisCyanescens-PHT
+2906,CERTQU,Ceratitis quinaria,Ceratitis quinaria,ceratitis quinaria,CeratitisQuinaria-PHT
+2907,CERTRO,Ceratitis rosa,Ceratitis rosa,ceratitis rosa,CeratitisRosa-PHT
+2908,RHACJA,Euphranta japonica,Euphranta japonica,euphranta japonica,EuphrantaJaponica-PHT
+2909,RHAGFA,Rhagoletis fausta,Rhagoletis fausta,rhagoletis fausta,RhagoletisFausta-PHT
+2913,RHAGFA,Rhagoletis fausta,Rhagoletis fausta,rhagoletis fausta,Tephritidae-PHT
+2941,RHAGIN,Rhagoletis indifferens,Rhagoletis indifferens,rhagoletis indifferens,RhagoletisIndifferens-PHT
+2942,RHAGIN,Rhagoletis indifferens,Rhagoletis indifferens,rhagoletis indifferens,Tephritidae-PHT
+2943,RHAGME,Rhagoletis mendax,Rhagoletis mendax,rhagoletis mendax,RhagoletisMendax-PHT
+2945,RHAGME,Rhagoletis mendax,Rhagoletis mendax,rhagoletis mendax,Tephritidae-PHT
+2951,RHAGPO,Rhagoletis pomonella,Rhagoletis pomonella,rhagoletis pomonella,RhagoletisPomonella-PHT
+2954,RHAGPO,Rhagoletis pomonella,Rhagoletis pomonella,rhagoletis pomonella,Tephritidae-PHT
+2969,RHAGRI,Rhagoletis ribicola,Rhagoletis ribicola,rhagoletis ribicola,RhagoletisRibicola-PHT
+2971,RHAGRI,Rhagoletis ribicola,Rhagoletis ribicola,rhagoletis ribicola,Tephritidae-PHT
+2977,RHAGSU,Rhagoletis suavis,Rhagoletis suavis,rhagoletis suavis,RhagoletisSuavis-PHT
+2978,RHAGSU,Rhagoletis suavis,Rhagoletis suavis,rhagoletis suavis,Tephritidae-PHT
+2979,DACUCU,Zeugodacus cucurbitae,Zeugodacus cucurbitae,zeugodacus cucurbitae,ZeugodacusCucurbitae-PHT
+3015,ARGPLE,Thaumatotibia leucotreta,Thaumatotibia leucotreta,thaumatotibia leucotreta,ThaumatotibiaLeucotreta-PHT
+3019,THRIPL,Thrips palmi,Thrips palmi,thrips palmi,ThripsPalmi-PHT
+3044,UNASCI,Unaspis citri,Unaspis citri,unaspis citri,UnaspisCitri-PHT
+3053,HIRSGR,Hirschmanniella gracilis,Hirschmanniella gracilis,hirschmanniella gracilis,Hirschmanniellaspp-PHT
+3054,LONGDI,Longidorus diadecturus,Longidorus diadecturus,longidorus diadecturus,LongidorusDiadecturus-PHT
+3055,NACOBA,Nacobbus aberrans,Nacobbus aberrans,nacobbus aberrans,NacobbusAberrans-PHT
+3071,XIPHAA,Xiphinema americanum sensu stricto,Xiphinema americanum sensu stricto,xiphinema americanum sensu stricto,XiphinemaAmericanum-PHT
+3075,XIPHBC,Xiphinema bricolense,Xiphinema bricolense,xiphinema bricolense,XiphinemaBricolense-PHT
+3076,XIPHCA,Xiphinema californicum,Xiphinema californicum,xiphinema californicum,XiphinemaAmericanum-PHT
+3077,XIPHCA,Xiphinema californicum,Xiphinema californicum,xiphinema californicum,XiphinemaCalifornicum-PHT
+3078,XIPHNA,Xiphinema neoamericanum,Xiphinema neoamericanum,xiphinema neoamericanum,XiphinemaNeoamericanum-PHT
+3079,XIPHRI,Xiphinema rivesi,Xiphinema rivesi,xiphinema rivesi,XiphinemaRivesi-PHT
+3080,XIPHTA,Xiphinema tarjanense,Xiphinema tarjanense,xiphinema tarjanense,XiphinemaTarjanense-PHT
+3081,1AREG,Arceuthobium,Arceuthobium,arceuthobium,Arceuthobium-PHT
+3082,AREAZ,Arceuthobium azoricum,Arceuthobium azoricum,arceuthobium azoricum,Arceuthobium-PHT
+3083,AREOX,Arceuthobium oxycedri,Arceuthobium oxycedri,arceuthobium oxycedri,Arceuthobium-PHT
+3084,BCTV00,Beet curly top virus,Beet curly top virus,beet curly top virus,BeetCurlyTopVirus-PHT
+3133,CCCVD0,Coconut cadang-cadang viroid,Coconut cadang-cadang viroid,coconut cadang-cadang viroid,CoconutCadangCadangViroid-PHT
+3142,CSNV00,Chrysanthemum stem necrosis virus,Chrysanthemum stem necrosis virus,chrysanthemum stem necrosis virus,ChrysanthemumStemNecrosis-PHT
+3151,CTV000,Citrus tristeza virus,Citrus tristeza virus,citrus tristeza virus,CitrusTristezaVirus-PHT
+3159,CILV00,Citrus leprosis disease,Citrus leprosis disease,citrus leprosis disease,CitrusLeprosisVirus-PHT
+3160,CILVC0,Citrus leprosis virus C,Citrus leprosis virus C,citrus leprosis virus c,CitrusLeprosisVirus-PHT
+3162,CILVC2,Citrus leprosis virus C2,Citrus leprosis virus C2,citrus leprosis virus c2,CitrusLeprosisVirus-PHT
+3165,PHYP56,Coconut lethal yellowing phytoplasma,Coconut lethal yellowing phytoplasma,coconut lethal yellowing phytoplasma,PalmLethalYellowingMycoplasm-PHT
+3167,PHYP56,Coconut lethal yellowing phytoplasma,Coconut lethal yellowing phytoplasma,coconut lethal yellowing phytoplasma,PalmLethalYellowingPhytoplasmas-PHT
+3173,APLV00,Andean potato latent virus,Andean potato latent virus,andean potato latent virus,AndeanPotatoLatentVirus-PHT
+3189,APMOV0,Andean potato mottle virus,Andean potato mottle virus,andean potato mottle virus,AndeanPotatoMottleVirus-PHT
+3205,AVBO00,Arracacha virus B oca strain,Arracacha virus B oca strain,arracacha virus b oca strain,ArracachaVirusB-PHT
+3213,PBRSV0,Potato black ringspot virus,Potato black ringspot virus,potato black ringspot virus,PotatoBlackRingspotVirus-PHT
+3238,PVT000,Potato virus T,Potato virus T,potato virus t,PotatoVirusT-PHT
+3247,PVA000,Potato virus A,Potato virus A,potato virus a,PotatoLeafrollVirus-PHT
+3249,PVA000,Potato virus A,Potato virus A,potato virus a,PotatoVirusA-PHT
+3255,PVM000,Potato virus M,Potato virus M,potato virus m,PotatoLeafrollVirus-PHT
+3258,PVM000,Potato virus M,Potato virus M,potato virus m,PotatoVirusM-PHT
+3273,PVS000,Potato virus S,Potato virus S,potato virus s,PotatoLeafrollVirus-PHT
+3275,PVS000,Potato virus S,Potato virus S,potato virus s,PotatoVirusS-PHT
+3281,PVV000,Potato virus V,Potato virus V,potato virus v,PotatoLeafrollVirus-PHT
+3283,PVV000,Potato virus V,Potato virus V,potato virus v,PotatoVirusV-PHT
+3289,PVX000,Potato virus X,Potato virus X,potato virus x,PotatoLeafrollVirus-PHT
+3291,PVX000,Potato virus X,Potato virus X,potato virus x,PotatoVirusX-PHT
+3297,PVY000,Potato virus Y,Potato virus Y,potato virus y,PotatoLeafrollVirus-PHT
+3299,PVY000,Potato virus Y,Potato virus Y,potato virus y,PotatoVirusY-PHT
+3305,PVYN00,Potato virus Y tobacco veinal necrosis strain,Potato virus Y tobacco veinal necrosis strain,potato virus y tobacco veinal necrosis strain,PotatoLeafrollVirus-PHT
+3310,PVYN00,Potato virus Y tobacco veinal necrosis strain,Potato virus Y tobacco veinal necrosis strain,potato virus y tobacco veinal necrosis strain,PotatoVirusY-PHT
+3355,PVYC00,Potato virus Y stipple streak strain,Potato virus Y stipple streak strain,potato virus y stipple streak strain,PotatoLeafrollVirus-PHT
+3359,PVYC00,Potato virus Y stipple streak strain,Potato virus Y stipple streak strain,potato virus y stipple streak strain,PotatoVirusY-PHT
+3387,PLRV00,Potato leafroll virus,Potato leafroll virus,potato leafroll virus,PotatoLeafrollVirus-PHT
+3396,SDV000,Satsuma dwarf virus,Satsuma dwarf virus,satsuma dwarf virus,CitrusYellowMosaicVirus-PHT
+3402,SDV000,Satsuma dwarf virus,Satsuma dwarf virus,satsuma dwarf virus,SatsumaDwarfVirus-PHT
+3468,TRSV00,Tobacco ringspot virus,Tobacco ringspot virus,tobacco ringspot virus,TobaccoRingspotVirus-PHT
+3471,TRSV00,Tobacco ringspot virus,Tobacco ringspot virus,tobacco ringspot virus,TomatoRingspotVirus-PHT
+3486,TORSV0,Tomato ringspot virus,Tomato ringspot virus,tomato ringspot virus,TomatoRingspotVirus-PHT
+3535,BLMOV0,Blueberry leaf mottle virus,Blueberry leaf mottle virus,blueberry leaf mottle virus,BlueberryLeafMottleVirus-PHT
+3539,CRLV00,Cherry rasp leaf virus,Cherry rasp leaf virus,cherry rasp leaf virus,CherryRaspLeafVirus-PHT
+3548,PCMV00,Peach mosaic virus,Peach mosaic virus,peach mosaic virus,PeachMosaicVirus-PHT
+3555,PCMV00,Peach mosaic virus,Peach mosaic virus,peach mosaic virus,PeachRosetteMosaicVirus-PHT
+3646,PRMV00,Peach rosette mosaic virus,Peach rosette mosaic virus,peach rosette mosaic virus,PeachRosetteMosaicVirus-PHT
+3650,APLPV0,American plum line pattern virus,American plum line pattern virus,american plum line pattern virus,AmericanPlumLinePatternVirus-PHT
+3666,RLCV00,Raspberry leaf curl virus,Raspberry leaf curl virus,raspberry leaf curl virus,RaspberryLeafCurlVirus-PHT
+3670,TOLCND,Tomato leaf curl New Delhi virus,Tomato leaf curl New Delhi virus,tomato leaf curl new delhi virus,TomatoLeafCurlNewDelhiVirus-PHT
+3734,CPMMV0,Cowpea mild mottle virus,Cowpea mild mottle virus,cowpea mild mottle virus,BemisiaTabaci-PHT
+3736,CPMMV0,Cowpea mild mottle virus,Cowpea mild mottle virus,cowpea mild mottle virus,CowpeaMildMottleVirus-PHT
+3742,LIYV00,Lettuce infectious yellows virus,Lettuce infectious yellows virus,lettuce infectious yellows virus,BemisiaTabaci-PHT
+3745,LIYV00,Lettuce infectious yellows virus,Lettuce infectious yellows virus,lettuce infectious yellows virus,LettuceInfectiousYellowsVirus-PHT
+3760,MYAV00,Melon yellowing-associated virus,Melon yellowing-associated virus,melon yellowing-associated virus,MelonYellowingAssociatedVirus-PHT
+3761,SPCSV0,Sweet potato chlorotic stunt virus,Sweet potato chlorotic stunt virus,sweet potato chlorotic stunt virus,SweetPotatoChloroticStuntVirus-PHT
+3762,SPMMV0,Sweet potato mild mottle virus,Sweet potato mild mottle virus,sweet potato mild mottle virus,SweetPotatoMildMottleVirus-PHT
+3771,TOCHV0,Tomato chocolàte virus,Tomato chocolàte virus,tomato chocolàte virus,TomatoChocolateVirus-PHT
+3775,TOANV0,Tomato marchitez virus,Tomato marchitez virus,tomato marchitez virus,TomatoMarchitezVirus-PHT
+3784,TOMMOV,Tomato mild mottle virus,Tomato mild mottle virus,tomato mild mottle virus,TomatoMildMottleVirus-PHT
+3785,CORBSE,Clavibacter sepedonicus,Clavibacter sepedonicus,clavibacter sepedonicus,ClavibacterMichiganensisSepedonicus-PHT
+3801,RALSSL,Ralstonia solanacearum,Ralstonia solanacearum,ralstonia solanacearum,RalstoniaSolanacearum-PHT
+3802,XYLEFA,Xylella fastidiosa,Xylella fastidiosa,xylella fastidiosa,XylellaFastidiosa-PHT
+3814,GIBBCI,Fusarium circinatum,Fusarium circinatum,fusarium circinatum,FusariumCircinatum-PHT
+3832,GEOHMO,Geosmithia morbida,Geosmithia morbida,geosmithia morbida,GeosmithiaMorbida-PHT
+3834,SYNCEN,Synchytrium endobioticum,Synchytrium endobioticum,synchytrium endobioticum,SynchytriumEndobioticum-PHT
+3838,ALECSN,Aleurocanthus spiniferus,Aleurocanthus spiniferus,aleurocanthus spiniferus,Aleurocanthus-PHT
+3848,ALECSN,Aleurocanthus spiniferus,Aleurocanthus spiniferus,aleurocanthus spiniferus,AleurocanthusSpiniferus-PHT
+3913,ANOLCN,Anoplophora chinensis,Anoplophora chinensis,anoplophora chinensis,AnoplophoraChinensis-PHT
+3994,AROMBU,Aromia bungii,Aromia bungii,aromia bungii,AromiaBungii-PHT
+4003,PITOJU,Pityophthorus juglandis,Pityophthorus juglandis,pityophthorus juglandis,PityophthorusJuglandis-PHT
+4004,POPIJA,Popillia japonica,Popillia japonica,popillia japonica,PopilliaJaponica-PHT
+4005,TOXOCI,Aphis citricidus,Aphis citricidus,aphis citricidus,ToxopteraCitricida-PHT
+4086,TRIZER,Trioza erytreae,Trioza erytreae,trioza erytreae,TriozaErytreae-PHT
+4095,1POMAG,Pomacea,Pomacea,pomacea,Pomacea-PHT
+4096,BURSXY,Bursaphelenchus xylophilus,Bursaphelenchus xylophilus,bursaphelenchus xylophilus,BursaphelenchusXylophilus-PHT
+4100,HETDPA,Globodera pallida,Globodera pallida,globodera pallida,GloboderaPallida-PHT
+4101,HETDRO,Globodera rostochiensis,Globodera rostochiensis,globodera rostochiensis,GloboderaRostochiensis-PHT
+4105,MELGCH,Meloidogyne chitwoodi,Meloidogyne chitwoodi,meloidogyne chitwoodi,MeloidogyneChitwoodi-PHT
+4106,MELGFA,Meloidogyne fallax,Meloidogyne fallax,meloidogyne fallax,MeloidogyneFallax-PHT
