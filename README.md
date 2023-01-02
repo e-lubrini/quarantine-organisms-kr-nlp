@@ -1,3 +1,5 @@
+<span style="color:magenta">Moved to [https://gitlab.com/elisa.lubrini/quarantine-organisms-kr-nlp](GitLab)</span>.
+
 ## Lexical Resources
 Google Glossary has the structure of a translation glossary with language codes as column names and each row containing a term in the target language and its equivalent in other languages.
 
