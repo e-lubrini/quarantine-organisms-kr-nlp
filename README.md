@@ -14,7 +14,7 @@ Pipelines contributing to its creation can be found in the `lexical_resources` 
 | Caracol Gigante Africano | Lissachatina fulica (Ferussac, 1821) | es |
 | Achatine foulque | Lissachatina fulica (Ferussac, 1821) | fr |
 
-#### Future Work
+#### Future Work
   - Add missing language information in some terms 
   - Add regular expressions as items (and update the translation pipeline accordingly)
 
@@ -65,7 +65,7 @@ ___
 - Tag terms in glossary
 -
 
-  #### Future Work
-  - Fix permission issues on Google Glossary
-  - Use language information if available 
-  - Treat glossary terms as regular expressions
+#### Future Work
+- Fix permission issues on Google Glossary
+- Use language information if available 
+- Treat glossary terms as regular expressions
